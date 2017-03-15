@@ -111,7 +111,7 @@
 
 50000355 = {
         Name = "Roland"
-	dynasty = 51000160 #Falconhurst, needs ID made
+	dynasty = 51000160 #Falconhurst
 	learning = 5
 	martial = 15
 	stewardship = 4
@@ -137,7 +137,7 @@
 	stewardship = 7
 	intrigue = 11
 	diplomacy = 14
-	add_trait = grey_eminence
+	add_trait = charismatic_negotiator
 	add_trait = fair
 	add_trait = legit_bastard
 	add_trait = paranoid
