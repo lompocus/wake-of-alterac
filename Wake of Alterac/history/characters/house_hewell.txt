@@ -39,6 +39,10 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	517.7.21 = {birth="517.7.21"}
+	581.3.20 = {
+			employer = 50000350
+			give_job__title = job_chancellor
+	}
 	
 }
 
@@ -87,6 +91,9 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	549.8.23 = {birth="549.8.23"}
+	581.3.20 = {
+			employer = 50000350
+	}
 
 }
 
@@ -108,6 +115,9 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	552.1.10 = {birth="552.1.10"}
+	585.9.13 = {
+			employer = 50000352
+	}
 	
 }
 
