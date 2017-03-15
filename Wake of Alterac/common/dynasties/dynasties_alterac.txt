@@ -101,10 +101,6 @@
 	culture = alteraci
 }
 
-51000169 = {
-	name = "Goldstead"
-	culture = alteraci
-}
 
 51000169 = {
 	name = "Lancett"
@@ -167,6 +163,9 @@
 	name = "Wayne"
 	culture = alteraci
 }
-51000182
+51000182 = {
+	name = "Goldstead"
+	culture = alteraci
+}
 51000183
 50000184
