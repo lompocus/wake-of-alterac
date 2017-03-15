@@ -153,7 +153,7 @@
 	add_trait = cynical
 	religion = church_of_the_holy_light
         culture = "alteraci"
-	551.2.10 = {birth="551.2.10"} #needs to be updated
+	551.2.10 = {birth="551.2.10"}
 	
 }
 
