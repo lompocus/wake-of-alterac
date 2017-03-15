@@ -1,0 +1,19 @@
+50001001 = {
+	name = "Isidor"
+	dynasty= 51000151 #Perenolde
+	learning = 5
+	martial = 3
+	stewardship = 4
+	intrigue = 8
+	diplomacy = 4
+	add_trait = lunatic
+	add_trait = cruel
+	add_trait = ambitious
+	add_trait = proud
+	add_trait = infirm
+	add_trait = misguided_warrior
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  516.8.23 = {birth="516.8.23"}
+}
+
