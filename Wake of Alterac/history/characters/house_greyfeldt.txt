@@ -1,20 +1,20 @@
 50003000 = {
         Name = "Edmund"
-	      dynasty = 51000151 #Greyfeldt
-	      learning = 5
-	      martial = 13
-	      stewardship = 4
-	      intrigue = 7
-	      diplomacy = 5
+	dynasty = 51000151 #Greyfeldt
+	learning = 5
+	martial = 13
+	stewardship = 4
+	intrigue = 7
+	diplomacy = 5
         add_trait = skilled_tactician
-	      add_trait = proud
-	      add_trait = greedy
-	      add_trait = deceitful
-	      add_trait = wroth
-	      add_trait = cruel
-	      add_trait = patient
-	      religion = church_of_the_holy_light
+	add_trait = proud
+	add_trait = greedy
+	add_trait = deceitful
+	add_trait = wroth
+	add_trait = cruel
+	add_trait = patient
+	religion = church_of_the_holy_light
         culture = "alteraci"
-	      563.7.5 = {birth="563.7.5"} #needs to be updated
+	563.7.5 = {birth="563.7.5"}
         
 }
