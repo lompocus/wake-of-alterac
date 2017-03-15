@@ -83,7 +83,7 @@
 
 50003004 = {
         Name = "James"
-	dynasty = 51000167 #Rosewood, needs to be updated
+	dynasty = 51000178 #Rosewood
 	learning = 7
 	martial = 4
 	stewardship = 7
@@ -102,17 +102,17 @@
 
 50003005 = {
         Name = "Lyonel"
-	dynasty = 51000167 #Mallory, needs to be updated
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-        add_trait =
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
+	dynasty = 51000177 #Mallory
+	learning = 5
+	martial = 8
+	stewardship = 4
+	intrigue = 5
+	diplomacy = 6
+        add_trait = misguided_warrior
+	add_trait = lustful
+	add_trait = proud
+	add_trait = ambitious
+	add_trait = wroth
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	550.4.5 = {birth="550.4.5"}
@@ -122,16 +122,16 @@
 50003006 = {
         Name = "Elliot"
 	dynasty = 51000168 #Osprey
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-        add_trait =
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
+	learning = 4
+	martial = 8
+	stewardship = 5
+	intrigue = 4
+	diplomacy = 5
+        add_trait = indulgent_wastrel
+	add_trait = slothful
+	add_trait = lustful
+	add_trait = gregarious
+	add_trait = brave
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	546.12.19 = {birth="546.12.19"}
