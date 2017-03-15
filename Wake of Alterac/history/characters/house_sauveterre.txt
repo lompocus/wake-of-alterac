@@ -1,5 +1,5 @@
 500005000 = {
-	name = ""
+	name = "Siegurdt"
 	dynasty= 51000152 #Sauveterre
 	learning = 
 	martial = 
@@ -13,6 +13,87 @@
 	add_trait = 
 	add_trait = 
   add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "uplander"
+	581.3.20 = {birth="581.3.20"}
+}
+
+500005000 = {
+	name = "Siegfried"
+	dynasty= 51000152 #Sauveterre
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "uplander"
+	581.3.20 = {birth="581.3.20"}
+}
+
+500005000 = {
+	name = "Adelaide"
+	dynasty= 51000152 #Sauveterre
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "uplander"
+	581.3.20 = {birth="581.3.20"}
+}
+
+500005000 = {
+	name = "Liam"
+	dynasty= 51000152 #Van_Setrien
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "uplander"
+	581.3.20 = {birth="581.3.20"}
+}
+
+
+500005000 = {
+	name = "Albrecht"
+	dynasty= 51000152 #Maillard
+	learning = 5
+	martial = 20
+	stewardship = 3
+	intrigue = 5
+	diplomacy = 7
+	add_trait = brave
+	add_trait = diligent
+	add_trait = patient
+	add_trait = content
+	add_trait = inspiring_leader
+	add_trait = organizer
+  add_trait = brilliant_strategist
 	religion = "church_of_the_holy_light"
 	culture = "uplander"
 	581.3.20 = {birth="581.3.20"}
