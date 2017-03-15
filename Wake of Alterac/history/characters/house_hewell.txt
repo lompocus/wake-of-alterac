@@ -17,4 +17,22 @@
 	culture = Rorilsman
 	 <birthdate goes here(year.month.day)> = {birth="<birthdate>"}
 }
-
+
+50000351 = {
+ Name = Alfred
+ dynasty= <dynasty ID> #<Dynasty goes here. Just a commented segment.>
+ learning = 17
+ martial = 3
+ stewardship = 10
+ intrigue = 6
+ diplomacy = 21
+ add_trait = charismatic_negotiator
+ add_trait = shrewd
+ add_trait = chaste
+ add_trait = kind
+ add_trait = charitable
+ add_trait = gregarious
+ religion = church_of_the_holy_light
+ culture = Rorilsman
+  <birthdate goes here(year.month.day)> = {birth="<birthdate>"}
+}
