@@ -1,4 +1,4 @@
-# Alteracian Dynasties
+# Alteraci Dynasties
 
 
 51000150 = {
