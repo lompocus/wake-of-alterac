@@ -124,7 +124,6 @@
 	554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
-}
 50000356 = {
         Name = "Grace"
 	female = yes
@@ -143,8 +142,6 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	554.3.14 = {birth="554.3.14"} #needs to be updated
-}
-
 }
 
 50000357 = {
@@ -388,5 +385,3 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	558.1.3 = {birth="558.1.3"}
-	 
-}
