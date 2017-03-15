@@ -199,16 +199,16 @@
 50003010 = {
         Name = "Wilfred"
 	dynasty = 51000179 #Cavanagh
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-        add_trait =
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
+	learning = 4
+	martial = 4
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 8
+        add_trait = underhanded_rogue
+	add_trait = gregarious
+	add_trait = patient
+	add_trait = content
+	add_trait = diligent
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	531.10.1 = {birth="531.10.1"}
