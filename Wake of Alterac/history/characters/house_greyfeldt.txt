@@ -151,7 +151,6 @@
 	add_trait = ambitious
 	add_trait = honest
 	add_trait = cynical
-	add_trait = wroth
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	551.2.10 = {birth="551.2.10"}
