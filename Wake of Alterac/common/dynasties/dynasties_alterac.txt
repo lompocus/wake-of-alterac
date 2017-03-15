@@ -40,3 +40,23 @@
 	name = "Ardal"
 	culture = rorilsman
 }
+
+51000157 = {
+	name = "Lancaster"
+	culture = alteraci
+}
+
+51000158 = {
+	name = "Howe"
+	culture = alteraci
+}
+
+51000159 = {
+	name = "Stratford"
+	culture = rorilsman
+}
+
+51000160 = {
+	name = "Falconhurst"
+	culture = rorilsman
+}
