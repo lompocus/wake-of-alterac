@@ -143,3 +143,12 @@
 	name = "Norwell"
 	culture = gilnean
 }
+
+51000177 = {
+	name = "Mallory"
+	culture = alteraci
+}
+51000178 = {
+	name = "Rosewood"
+	culture = gilnean
+}
