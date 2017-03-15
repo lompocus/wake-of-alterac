@@ -7,14 +7,14 @@ title = c_rivermark
 max_settlements = 3
 b_rivermark = castle
 
-b_halton = temple
+b_halton(name of rivermark chapel) = temple
 #b_malpas = castle
 #b_northwich = castle
 #b_beeston = castle
-b_macclesfield = city
+b_macclesfield(name of rivermark village) = city
 #b_sandbach = castle
 #b_nantwich = castle
-
+(# above indicates a possible name for unbuilt holding. dont need to set = castle, temple, etc.)
 # Misc
 culture = rorilsman
 religion = church_of_the_holy_light
