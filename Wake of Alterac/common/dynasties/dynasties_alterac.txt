@@ -152,3 +152,21 @@
 	name = "Rosewood"
 	culture = gilnean
 }
+
+51000179 = {
+	name = "Cavanagh"
+	culture = alteraci
+}
+
+51000180 = {
+	name = "Redrayne"
+	culture = alteraci
+}
+
+51000181 = {
+	name = "Wayne"
+	culture = alteraci
+}
+51000182
+51000183
+50000184
