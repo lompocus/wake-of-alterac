@@ -122,26 +122,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	545.10.11 = {birth="554.3.14"}
-}
-
-50000356 = {
-        Name = "Grace"
-	female = yes
-	dynasty = 51000156 #Ardal
-	learning = 4
-	martial = 4
-	stewardship = 9
-	intrigue = 5
-	diplomacy = 5
-	add_trait = thrifty_clerk
-	add_trait = diligent
-	add_trait = stubborn
-	add_trait = kind
-	add_trait = proud
-	add_trait = trusting
-	religion = church_of_the_holy_light
-	culture = "rorilsman"
-	554.3.14 = {birth="554.3.14"} #needs to be updated
+	
 }
 
 50000357 = {
