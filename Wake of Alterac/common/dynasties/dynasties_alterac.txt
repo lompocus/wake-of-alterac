@@ -35,3 +35,8 @@
 	name = "Vardus"
 	culture = uplander
 }
+
+51000156 = {
+	name = "Ardal"
+	culture = rorilsman
+}
