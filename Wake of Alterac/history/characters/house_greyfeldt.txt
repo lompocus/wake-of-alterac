@@ -59,3 +59,138 @@
 	556.1.8 = {birth="556.1.8"}
         
 }
+
+50003003 = {
+        Name = "Harwyn"
+	dynasty = 51000167 #Harrowgate
+	learning = 4
+	martial = 7
+	stewardship = 4
+	intrigue = 13
+	diplomacy = 7
+        add_trait = elusive_shadow
+	add_trait = deceitful
+	add_trait = greedy
+	add_trait = wroth
+	add_trait = cruel
+	add_trait = ambitious
+	add_trait = patient
+	religion = church_of_the_holy_light
+        culture = "uplander"
+	555.8.13 = {birth="556.8.13"}
+	
+}
+
+50003004 = {
+        Name = "James"
+	dynasty = 51000167 #Rosewood, needs to be updated
+	learning = 7
+	martial = 4
+	stewardship = 7
+	intrigue = 7
+	diplomacy = 10
+        add_trait = underhanded_rogue
+	add_trait = gardener
+	add_trait = diligent
+	add_trait = temperate
+	add_trait = adventurer
+	religion = church_of_the_holy_light
+        culture = "gilnean" #needs to be implemented
+	565.10.19 = {birth="565.10.19"}
+	
+}
+
+50003005 = {
+        Name = "Lyonel"
+	dynasty = 51000167 #Mallory, needs to be updated
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	550.4.5 = {birth="550.4.5"}
+	
+}
+
+50003006 = {
+        Name = "Elliot"
+	dynasty = 51000168 #Osprey
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	546.12.19 = {birth="546.12.19"}
+	
+}
+
+50003007 = {
+        Name = "Jorg"
+	dynasty = 51000167 #Brant, needs to be updated
+	learning = 4
+	martial = 10
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 4
+        add_trait = tough_soldier
+	add_trait = quick
+	add_trait = ambitious
+	add_trait = honest
+	add_trait = cynical
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	551.2.10 = {birth="551.2.10"} #needs to be updated
+	
+}
+
+50003008 = {
+        Name = "Robert"
+	dynasty = NONE
+	learning = 8
+	martial = 8
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 4
+        add_trait = detached_priest
+	add_trait = deceitful
+	add_trait = greedy
+	add_trait = bad_priest_christian
+	add_trait = cruel
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	551.6.20 = {birth="551.6.20"}
+	
+}
+
+50003009 = {
+        Name = ""
+	dynasty = 51000167 #needs to be updated
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	550.4.5 = {birth="550.4.5"} #needs to be updated
+	
+}
