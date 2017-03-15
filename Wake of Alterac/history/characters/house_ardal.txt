@@ -9,6 +9,7 @@
 	add_trait = ambitious
 	add_trait = gregarious
 	add_trait = just
+	add_trait = diligent
 	add_trait = midas_touched
 	add_trait = siege_leader
 	add_trait = deceitful
@@ -29,6 +30,7 @@
 	add_trait = gregarious
 	add_trait = humble
 	add_trait = chaste
+	add_trait = diligent
 	add_trait = wroth
 	add_trait = stressed
 	religion = "church_of_the_holy_light"
