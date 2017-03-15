@@ -11,13 +11,35 @@
 	add_trait = ambitious
 	add_trait = proud
 	add_trait = infirm
-	add_trait = misguided_warrior
+	add_trait = naive_appeaser
+	add_trait = ill
+	add_trait = stressed
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	  516.8.23 = {birth="516.8.23"}
 }
 
 50001002 = {
+	name = "Aiden"
+	dynasty = 51000151 #Perenolde
+	learning = 4
+	martial = 7
+	stewardship = 8
+	intrigue = 4
+	diplomacy = 9
+	add_trait = wroth
+	add_trait = zealous
+	add_trait = cruel
+	add_trait = naive_appeaser
+	add_trait = quick
+	add_trait = cynical
+  	add_trait = stressed
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	 535.5.22 = {birth="535.5.22"}
+}
+
+50001003 = {
 	name = ""
 	dynasty = 51000151 #Perenolde
 	learning = 
@@ -37,7 +59,47 @@
 	  = {birth=""}
 }
 
-50001003 = {
+50001004 = {
+	name = ""
+	dynasty = 51000151 #Perenolde
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
+
+50001005 = {
+	name = ""
+	dynasty = 51000151 #Perenolde
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
+
+50001006 = {
 	name = ""
 	dynasty = 51000151 #Perenolde
 	learning = 
