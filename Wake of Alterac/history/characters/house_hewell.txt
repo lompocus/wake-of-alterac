@@ -208,6 +208,7 @@
 	add_trait = kind
 	add_trait = paranoid
 	add_trait = scarred
+	add_trait = physician
 	add_trait = stressed
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
