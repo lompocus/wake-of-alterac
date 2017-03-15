@@ -146,11 +146,12 @@
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 4
-        add_trait = tough_soldier
+        add_trait = skilled_tactician
 	add_trait = quick
 	add_trait = ambitious
 	add_trait = honest
 	add_trait = cynical
+	add_trait = wroth
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	551.2.10 = {birth="551.2.10"}
