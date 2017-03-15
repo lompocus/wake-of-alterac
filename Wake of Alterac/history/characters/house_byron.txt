@@ -22,22 +22,25 @@
 50002001 = {
 	name = "Catherine"
 	dynasty = 51000176 #Norwell
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	learning = 4
+	martial = 4
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 4
+	add_trait = chaste
+	add_trait = pregnant
+	add_trait = kind
+	add_trait = feeble
+	add_trait = paranoid
+	add_trait = detached_priest
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
-	  = {birth=""}
- 	 581.3.20 = {add_spouse = 50002000}
+	560.3.28 = {birth="560.3.28"}
+ 	581.3.20 = {
+	
+	 add_spouse = 50002000
+	 
+	 }
 }
 
 50002002 = {
