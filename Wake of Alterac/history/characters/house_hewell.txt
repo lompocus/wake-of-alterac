@@ -15,7 +15,7 @@
 	add_trait = wroth
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
-	 <birthdate goes here(year.month.day)> = {birth="<birthdate>"}
+	 27.2.15 = {birth="27.2.15"}
 }
 
 50000351 = {
