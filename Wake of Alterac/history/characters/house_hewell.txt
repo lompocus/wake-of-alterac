@@ -63,6 +63,9 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	554.3.14 = {birth="554.3.14"}
+	585.9.13={
+          add_spouse=50000901 #Grace
+     }
 	
 }
 
