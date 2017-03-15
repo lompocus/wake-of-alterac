@@ -1,6 +1,6 @@
 50000350 = {
 	Name = Duncan II
-	dynasty= <dynasty ID> #<Dynasty goes here. Just a commented segment.>
+	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
 	learning = 6
 	martial = 20
 	stewardship = 7
@@ -14,31 +14,33 @@
 	add_trait = ambitious
 	add_trait = wroth
 	religion = church_of_the_holy_light
-	culture = Rorilsman
+	culture = "rorilsman"
 	 <birthdate goes here(year.month.day)> = {birth="<birthdate>"}
 }
 
 50000351 = {
-	Name = Alfred
-	dynasty= <dynasty ID> #<Dynasty goes here. Just a commented segment.>
-	learning = 17
+	Name = "Alfred"
+	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	learning = 13
 	martial = 3
 	stewardship = 10
 	intrigue = 6
-	diplomacy = 21
+	diplomacy = 15
 	add_trait = charismatic_negotiator
 	add_trait = shrewd
 	add_trait = chaste
+	add_trait = frail
+	add_trait = weak
 	add_trait = kind
 	add_trait = charitable
 	add_trait = gregarious
 	religion = church_of_the_holy_light
-	culture = Rorilsman
-	 <birthdate goes here(year.month.day)> = {birth="<birthdate>"}
+	culture = "rorilsman"
+	 19.7.21 = {birth="19.7.21"}
 }
 
 50000352 = {
-
+	Name =
 }
 
 50000353 = {
