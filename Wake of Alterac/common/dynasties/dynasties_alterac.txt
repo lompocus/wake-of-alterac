@@ -1,0 +1,37 @@
+# Alteracian Dynasties
+
+
+51000150 = {
+	name = "Hewell"
+	culture = rorilsman
+}
+
+51000151 = {
+	name = "Perenolde"
+	culture = alteraci
+}
+
+51000151 = {
+	name = "Greyfeldt"
+	culture = alteraci
+}
+
+51000152 = {
+	name = "Sauveterre"
+	culture = alteraci
+}
+
+51000153 = {
+	name = "Benfrey"
+	culture = alteraci
+}
+
+51000154 = {
+	name = "Byron"
+	culture = uplander
+}
+
+51000155 = {
+	name = "Vardus"
+	culture = uplander
+}
