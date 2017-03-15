@@ -17,3 +17,63 @@
 	culture = "rorilsman"
 	  = {birth=""}
 }
+
+50000901 = {
+	name = ""
+	dynasty= 51000156 #Ardal
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "rorilsman"
+	  = {birth=""}
+}
+
+50000902 = {
+	name = ""
+	dynasty= 51000156 #Ardal
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "rorilsman"
+	  = {birth=""}
+}
+
+5000093 = {
+	name = ""
+	dynasty= 51000156 #Ardal
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "rorilsman"
+	  = {birth=""}
+}
