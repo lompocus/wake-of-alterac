@@ -110,3 +110,26 @@
 	name = "Lancett"
 	culture = uplander
 }
+
+51000170 = {
+	name = "Hayward"
+	culture = rorilsman
+}
+
+51000171 = {
+	name = "Norford"
+	culture = rorilsman
+}
+51000172 = {
+	name = "Chamberlain"
+	culture = rorilsman
+}
+51000173 = {
+	name = "Osworth"
+	culture = alteraci
+}
+
+51000174 = {
+	name = "Warmund"
+	culture = alteraci
+}
