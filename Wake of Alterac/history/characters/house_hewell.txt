@@ -64,52 +64,267 @@
 }
 
 50000353 = {
+        Name = "Barahir"
+	dynasty= 51000159 #Stratford, needs ID made
+	learning = 
+	martial = 
+	stewardship =
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 
 }
 
 50000354 = {
-
+        Name = "Gwaine"
+	dynasty= 51000157 #Lancaster, needs ID made
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000355 = {
+        Name = "Roland"
+	dynasty= 51000160 #Falconhurst, needs ID made
+	learning = 5
+	martial = 15
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 10
+	add_trait = tough_soldier
+	add_trait = robust
+	add_trait = kind
+	add_trait = brave
+	add_trait = chaste
+	add_trait = erudite
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
+}
 
 }
 50000356 = {
+        Name = "Grace"
+	dynasty= 51000156 #Ardal
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
+}
 
 }
 
 50000357 = {
-
+        Name = "Edwin"
+	dynasty= 51000150 #Hewell
+	learning = 6
+	martial = 12
+	stewardship = 7
+	intrigue = 11
+	diplomacy = 14
+	add_trait = fair
+	add_trait = paranoid
+	add_trait = gregarious
+	add_trait = socializer
+	add_trait = ambitious
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000358 = {
+        Name = "Nazarius"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 13
+	martial = 4
+	stewardship = 7
+	intrigue = 4
+	diplomacy = 8
+	add_trait mastermind_theologian
+	add_trait = gregarious
+	add_trait = charitable
+	add_trait = chaste
+	add_trait = humble
+	add_trait = weak
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 
 }
 
 50000359 = {
+        Name = "Richardt"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 
 }
 
 50000360 = {
-
+        Name = "Medrick"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000361 = {
-
+        Name = "Freyja"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000362 = {
-
+        Name = "Graeth"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000363 = {
-
+        Name = "Chase"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 }
 
 50000364 = {
+        Name = "Fulton"
+	dynasty= 51000161 #Lindholm
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "alteraci"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 
 }
 
 50000365 = {
+        Name = "Vivian"
+	dynasty= 51000150 #Lowborn? not matching id
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"} #needs to be updated
 
 }
