@@ -17,6 +17,7 @@
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
 	536.2.15 = {birth="536.2.15"}
+	
 }
 
 50000351 = {
@@ -38,6 +39,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	517.7.21 = {birth="517.7.21"}
+	
 }
 
 50000352 = {
@@ -61,6 +63,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	554.3.14 = {birth="554.3.14"}
+	
 }
 
 50000353 = {
@@ -103,6 +106,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	552.1.10 = {birth="552.1.10"}
+	
 }
 
 50000355 = {
@@ -143,6 +147,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	551.8.2 = {birth="551.8.2"}
+	
 }
 
 50000358 = {
@@ -204,6 +209,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	558.8.10 = {birth="558.8.10"}
+	
 }
 
 50000361 = {
@@ -225,6 +231,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	556.5.5 = {birth="556.5.5"}
+	
 }
 
 50000362 = {
@@ -244,6 +251,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	554.3.14 = {birth="554.3.14"}
+	
 }
 
 50000363 = {
@@ -263,6 +271,7 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	547.6.15 = {birth="547.6.15"}
+	
 }
 
 50000364 = {
@@ -367,3 +376,5 @@
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
 	558.1.3 = {birth="558.1.3"}
+	
+}	
