@@ -1,6 +1,6 @@
 50000400 = {
 	name = "Robert"
-	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	dynasty= 51000153 #Benfrey
 	learning = 4
 	martial = 9
 	stewardship = 5
@@ -16,4 +16,83 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	 530.5.12 = {birth="539.5.12"}
+}
+
+50000401 = {
+	name = "Alfyn"
+	dynasty= 51000153 #Benfrey
+	learning = 5
+	martial = 11
+	stewardship = 4
+	intrigue = 6
+	diplomacy = bastard
+	add_trait = tough_soldier
+	add_trait = celibate
+	add_trait = kinslayer
+	add_trait = zealous
+	add_trait = wroth
+	add_trait = shrewd
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  557.1.17 = {birth="557.1.17"}
+}
+
+50000402 = {
+	name = ""
+	dynasty= 51000153 #Benfrey
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
+
+50000403 = {
+	name = ""
+	dynasty= 51000153 #Benfrey
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
+
+50000404 = {
+	name = ""
+	dynasty= 51000153 #Benfrey
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
 }
