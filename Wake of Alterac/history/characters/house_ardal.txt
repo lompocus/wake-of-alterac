@@ -15,7 +15,7 @@
   	add_trait = stubborn
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	  = {birth="552.3.20"}
+	552.3.20 = {birth="552.3.20"}
 }
 
 50000901 = {
@@ -33,7 +33,7 @@
 	add_trait = stressed
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	  = {birth="556.3.20"}
+	556.3.19  = {birth="556.3.20"}
 }
 
 50000902 = {
