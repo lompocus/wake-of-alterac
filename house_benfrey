@@ -1,0 +1,37 @@
+50000400 = {
+	name = "Duncan"
+	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	learning = 6
+	martial = 20
+	stewardship = 7
+	intrigue = 4
+	diplomacy = 8
+	add_trait = brilliant_strategist
+	add_trait = robust
+	add_trait = brave
+	add_trait = kind
+	add_trait = gluttonous
+	add_trait = ambitious
+	add_trait = wroth
+	religion = "church_of_the_holy_light"
+	culture = "rorilsman"
+	 37.2.15 = {birth="27.2.15"}
+}
+50000401 = {
+
+}
+50000403 = {
+
+}
+50000 = {
+
+}
+50000350 = {
+
+}
+50000350 = {
+
+}
+50000350 = {
+
+}
