@@ -1,5 +1,5 @@
 50000350 = {
-	Name = "Duncan"
+	name = "Duncan"
 	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
 	learning = 6
 	martial = 20
@@ -13,13 +13,13 @@
 	add_trait = gluttonous
 	add_trait = ambitious
 	add_trait = wroth
-	religion = church_of_the_holy_light
+	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	 27.2.15 = {birth="27.2.15"}
+	 37.2.15 = {birth="27.2.15"}
 }
 
 50000351 = {
-	Name = "Alfred"
+	name = "Alfred"
 	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
 	learning = 13
 	martial = 3
@@ -36,7 +36,7 @@
 	add_trait = gregarious
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
-	 19.7.21 = {birth="19.7.21"}
+	 17.7.21 = {birth="19.7.21"}
 }
 
 50000352 = {
