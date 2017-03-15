@@ -1,5 +1,5 @@
 50000350 = {
-	Name = Duncan II
+	Name = "Duncan"
 	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
 	learning = 6
 	martial = 20
