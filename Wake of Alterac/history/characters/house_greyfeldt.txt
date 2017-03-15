@@ -18,3 +18,44 @@
 	563.7.5 = {birth="563.7.5"}
         
 }
+
+50003001 = {
+        Name = "Edeline"
+	dynasty = 51000151 #Greyfeldt
+	learning = 4
+	martial = 4
+	stewardship = 4
+	intrigue = 10
+	diplomacy = 8
+        add_trait = intricate_webweaver
+	add_trait = ambitious
+	add_trait = deceitful
+	add_trait = patient
+	add_trait = depressed
+	add_trait = feeble
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	561.5.20 = {birth="561.5.20"}
+	
+}
+
+50003002 = {
+        Name = "Patricia"
+	dynasty = 51000151 #Greyfeldt
+	learning = 5
+	martial = 3
+	stewardship = 3
+	intrigue = 8
+	diplomacy = 7
+        add_trait = amateurish_plotter
+	add_trait = deceitful
+	add_trait = drunkard
+	add_trait = wroth
+	add_trait = cruel
+	add_trait = dull
+	add_trait = envious
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	556.1.8 = {birth="556.1.8"}
+        
+}
