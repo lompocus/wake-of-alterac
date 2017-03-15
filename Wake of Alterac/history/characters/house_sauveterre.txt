@@ -1,0 +1,19 @@
+500005000 = {
+	name = ""
+	dynasty= 51000152 #Sauveterre
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "uplander"
+	581.3.20 = {birth="581.3.20"}
+}
