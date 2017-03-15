@@ -1,6 +1,6 @@
 50001001 = {
 	name = "Isidor"
-	dynasty= 51000151 #Perenolde
+	dynasty = 51000151 #Perenolde
 	learning = 5
 	martial = 3
 	stewardship = 4
@@ -17,3 +17,42 @@
 	  516.8.23 = {birth="516.8.23"}
 }
 
+50001002 = {
+	name = ""
+	dynasty = 51000151 #Perenolde
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
+
+50001003 = {
+	name = ""
+	dynasty = 51000151 #Perenolde
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+  	add_trait = 
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  = {birth=""}
+}
