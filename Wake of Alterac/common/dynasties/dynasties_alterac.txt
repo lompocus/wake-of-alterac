@@ -65,3 +65,48 @@
 	name = "Lindholm"
 	culture = alteraci
 }
+
+51000162 = {
+	name = "Allard"
+	culture = alteraci
+}
+
+51000163 = {
+	name = "Osgrey"
+	culture = uplander
+}
+
+51000164 = {
+	name = "Ravenslowe"
+	culture = uplander
+}
+
+51000165 = {
+	name = "Van Setrien"
+	culture = uplander
+}
+
+51000166 = {
+	name = "Maillard"
+	culture = uplander
+}
+
+51000167 = {
+	name = "Harrowgate"
+	culture = uplander
+}
+
+51000168 = {
+	name = "Osprey"
+	culture = alteraci
+}
+
+51000169 = {
+	name = "Goldstead"
+	culture = alteraci
+}
+
+51000169 = {
+	name = "Lancett"
+	culture = uplander
+}
