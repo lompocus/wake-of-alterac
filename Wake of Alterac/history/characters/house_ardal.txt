@@ -1,6 +1,6 @@
 50000900 = {
 	name = ""
-	dynasty= 51000153 #Benfrey
+	dynasty= 51000156 #Ardal
 	learning = 
 	martial = 
 	stewardship = 
