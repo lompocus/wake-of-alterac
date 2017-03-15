@@ -4,25 +4,26 @@
 	learning = 6
 	martial = 20
 	stewardship = 7
-	intrigue = 4
+	intrigue = 7
 	diplomacy = 8
 	add_trait = brilliant_strategist
-	add_trait = robust
+	add_trait = strong
 	add_trait = brave
-	add_trait = kind
 	add_trait = gluttonous
 	add_trait = ambitious
 	add_trait = wroth
+	add_trait = drunkard
+	add_trait = charitable
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	 37.2.15 = {birth="27.2.15"}
+	 536.2.15 = {birth="536.2.15"}
 }
 
 50000351 = {
 	name = "Alfred"
 	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
 	learning = 13
-	martial = 3
+	martial = 4
 	stewardship = 10
 	intrigue = 6
 	diplomacy = 15
@@ -36,11 +37,30 @@
 	add_trait = gregarious
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
-	 17.7.21 = {birth="19.7.21"}
+	 517.7.21 = {birth="517.7.21"}
 }
 
 50000352 = {
-	name =
+	Name = "William"
+	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	learning = 4
+	martial = 14
+	stewardship = 6
+	intrigue = 6
+	diplomacy = 8
+	add_trait = skilled_tactician
+	add_trait = fair
+	add_trait = lustful
+	add_trait = slothful
+	add_trait = gregarious
+	add_trait = brave
+	add_trait = depressed
+	add_trait = erudite
+	add_trait = adventurer
+	add_trait = poet
+	religion = church_of_the_holy_light
+	culture = "rorilsman"
+	 554.3.14 = {birth="554.3.14"}
 }
 
 50000353 = {
