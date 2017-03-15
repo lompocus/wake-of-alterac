@@ -368,6 +368,7 @@
 
 50000367 = {
         Name = "Ada"
+	female = yes
 	dynasty = NONE
 	learning = 4
 	martial = 4
