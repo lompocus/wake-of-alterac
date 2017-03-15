@@ -1,1 +1,88 @@
-5
+50003006 = {
+        Name = "Walther"
+         dynasty = 51000168 #Vardus
+         learning = 13
+         martial = 7
+         stewardship = 18
+         intrigue = 3
+         diplomacy = 9
+        add_trait = administrator
+         add_trait = stressed
+         add_trait = infirm
+         add_trait = celibate
+         add_trait = temperate
+         add_trait = proud
+         add_trait = honest
+         religion = church_of_the_holy_light
+                culture = "alteraci"
+         546.12.19 = {birth="546.12.19"}
+
+50003006 = {
+        Name = "Wylis"
+         dynasty = 51000168 #Vardus
+         learning = 
+         martial = 
+         stewardship = 
+         intrigue = 
+         diplomacy = 
+         add_trait =
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         religion = church_of_the_holy_light
+                culture = "alteraci"
+         546.12.19 = {birth="546.12.19"}  
+
+
+50003006 = {
+        Name = "John"
+         dynasty = 51000168 #Osgrey
+         learning = 
+         martial = 
+         stewardship = 
+         intrigue = 
+         diplomacy = 
+         add_trait =
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         religion = church_of_the_holy_light
+                culture = "alteraci"
+         546.12.19 = {birth="546.12.19"}  
+         50003006 = {
+         
+        Name = "Elisa"
+         dynasty = 51000168 #Vardus
+         learning = 11
+         martial = 4 (1st date) 10 (2nd date, barahir training)
+         stewardship = 9
+         intrigue = 4
+         diplomacy = 14
+         add_trait = humble
+         add_trait = honest
+         add_trait = just
+         add_trait = trusting
+         add_trait = paranoid (2nd date)
+         religion = church_of_the_holy_light
+                culture = "alteraci"
+         546.12.19 = {birth="546.12.19"}  
+         
+         50003006 = {
+        Name = "John"
+         dynasty = 51000168 #Osgrey
+         learning = 
+         martial = 
+         stewardship = 
+         intrigue = 
+         diplomacy = 
+         add_trait =
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         add_trait = 
+         religion = church_of_the_holy_light
+                culture = "alteraci"
+         546.12.19 = {birth="546.12.19"}  
+         50003006 = {
