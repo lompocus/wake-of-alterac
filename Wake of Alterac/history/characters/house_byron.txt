@@ -15,7 +15,7 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	552.9.17  = {birth="552.9.17"}   
-  581.3.20 = {add_spouse = 50002001}
+  	581.3.20 = {add_spouse = 50002001}
 }
 
 
@@ -33,11 +33,11 @@
 	add_trait = 
 	add_trait = 
 	add_trait = 
-  add_trait = 
+  	add_trait = 
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	  = {birth=""}
-  581.3.20 = {add_spouse = 50002000}
+ 	 581.3.20 = {add_spouse = 50002000}
 }
 
 50002002 = {
