@@ -38,40 +38,34 @@
 }
 
 50000402 = {
-	name = ""
-	dynasty= 51000153 #Benfrey
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	name = "Jon"
+	dynasty= 51000153 #Allard
+	learning = 5
+	martial = 13
+	stewardship = 4
+	intrigue = 6
+	diplomacy = 3
+	add_trait = stubborn
+	add_trait = just
+	add_trait = zealous
+	add_trait = inspiring leader
+	add_trait = skilled_tactician
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
-	  = {birth=""}
+	  = {birth="534.1.13"}
 }
 
 50000403 = {
-	name = ""
-	dynasty= 51000153 #Benfrey
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	name = "Alec"
+	dynasty= 51000153 #Lancett
+	learning = 5
+	martial = 7
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 7
+	add_trait = wroth
+	add_trait = stubborn
+	add_trait = craven
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	  = {birth=""}
