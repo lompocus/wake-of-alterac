@@ -31,7 +31,7 @@
 	add_trait = charismatic_negotiator
 	add_trait = shrewd
 	add_trait = chaste
-	add_trait = frail
+	add_trait = feeble
 	add_trait = weak
 	add_trait = kind
 	add_trait = charitable
