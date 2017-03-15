@@ -1,0 +1,24 @@
+# 59 - Chester
+
+# County Title
+title = c_rivermark
+
+# Settlements
+max_settlements = 3
+b_rivermark = castle
+
+b_halton = temple
+#b_malpas = castle
+#b_northwich = castle
+#b_beeston = castle
+b_macclesfield = city
+#b_sandbach = castle
+#b_nantwich = castle
+
+# Misc
+culture = rorilsman
+religion = church_of_the_holy_light
+
+# History
+80.3.20 = { culture = rorilsman }
+
