@@ -177,6 +177,141 @@
 }
 
 50003009 = {
+        Name = "Amadeus"
+	dynasty = 51000181 #Wayne
+	learning = 5
+	martial = 5
+	stewardship = 10
+	intrigue = 5
+	diplomacy = 5
+        add_trait = thrifty_clerk
+	add_trait = kind
+	add_trait = charitable
+	add_trait = diligent
+	add_trait = lustful
+	add_trait = proud
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	543.4.11 = {birth="543.4.11"}
+	
+}
+
+50003010 = {
+        Name = "Wilfred"
+	dynasty = 51000179 #Cavanagh
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	531.10.1 = {birth="531.10.1"}
+	
+}
+
+50003011 = {
+        Name = "Rene"
+	dynasty = NONE
+	learning = 4
+	martial = 8
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 5
+        add_trait = tough_soldier
+	add_trait = duelist
+	add_trait = brave
+	add_trait = wroth
+	add_trait = ambitious
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	552.11.1 = {birth="552.11.1"}
+	
+}
+
+50003012 = {
+        Name = "Leoric"
+	dynasty = 51000180 #Redrayne
+	learning = 4
+	martial = 7
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 4
+        add_trait = tough_soldier
+	add_trait = fair
+	add_trait = robust
+	add_trait = paranoid
+	add_trait = cynical
+	add_trait = content
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	551.7.4 = {birth="551.7.4"}
+	
+}
+
+50003013 = {
+        Name = "Roderick"
+	dynasty = NONE
+	learning = 4
+	martial = 7
+	stewardship = 4
+	intrigue = 4
+	diplomacy = 4
+        add_trait = misguided_warrior
+	add_trait = proud
+	add_trait = wroth
+	add_trait = dull
+	add_trait = stubborn
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	556.9.14 = {birth="556.9.14"}
+	
+}
+
+50003014 = {
+        Name = ""
+	dynasty = 51000167 #needs to be updated
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	550.4.5 = {birth="550.4.5"} #needs to be updated
+	
+}
+
+50003015 = {
+        Name = ""
+	dynasty = 51000167 #needs to be updated
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+        add_trait =
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	religion = church_of_the_holy_light
+        culture = "alteraci"
+	550.4.5 = {birth="550.4.5"} #needs to be updated
+	
+}
+
+50003016 = {
         Name = ""
 	dynasty = 51000167 #needs to be updated
 	learning = 
