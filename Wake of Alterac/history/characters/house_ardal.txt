@@ -1,41 +1,39 @@
 50000900 = {
 	name = "Christopher"
 	dynasty= 51000156 #Ardal
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	learning = 9
+	martial = 13
+	stewardship = 15 
+	intrigue = 11
+	diplomacy = 8
+	add_trait = ambitious
+	add_trait = gregarious
+	add_trait = just
+	add_trait = midas_touched
+	add_trait = siege_leader
+	add_trait = deceitful
+  	add_trait = stubborn
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	  = {birth=""}
+	  = {birth="552.3.20"}
 }
 
 50000901 = {
-        Name = "Grace"
-	female = yes
-	dynasty = 51000156 #Ardal
-	learning = 4
-	martial = 4
-	stewardship = 9
-	intrigue = 5
-	diplomacy = 5
-	add_trait = thrifty_clerk
-	add_trait = diligent
-	add_trait = stubborn
-	add_trait = kind
-	add_trait = proud
-	add_trait = trusting
-	religion = church_of_the_holy_light
+	name = "Grace"
+	dynasty= 51000156 #Ardal
+	learning = 5
+	martial = 6
+	stewardship = 12 
+	intrigue = 6
+	diplomacy = 9
+	add_trait = gregarious
+	add_trait = humble
+	add_trait = chaste
+	add_trait = wroth
+	add_trait = stressed
+	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
-	558.5.3 = {birth="558.5.3"} #needs to be updated
+	  = {birth="556.3.20"}
 }
 
 50000902 = {
