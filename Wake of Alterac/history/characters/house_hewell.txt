@@ -1,6 +1,6 @@
 50000350 = {
 	name = "Duncan"
-	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	dynasty= 51000150 #Hewell
 	learning = 6
 	martial = 20
 	stewardship = 7
@@ -21,7 +21,7 @@
 
 50000351 = {
 	name = "Alfred"
-	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	dynasty= 51000150 #Hewell
 	learning = 13
 	martial = 4
 	stewardship = 10
@@ -42,7 +42,7 @@
 
 50000352 = {
 	Name = "William"
-	dynasty= 51000150 #<Dynasty goes here. Just a commented segment.>
+	dynasty= 51000150 #Hewell
 	learning = 4
 	martial = 14
 	stewardship = 6
