@@ -1,24 +1,19 @@
-# 59 - Chester
+# 2 - Rivermark
 
 # County Title
 title = c_rivermark
 
 # Settlements
-max_settlements = 3
-b_rivermark = castle
+max_settlements = 5
+b_rivermark = temple
+b_riverwatch = city
+b_rorilstead = castle
+b_ravenholdt = castle
 
-b_halton(name of rivermark chapel) = temple
-#b_malpas = castle
-#b_northwich = castle
-#b_beeston = castle
-b_macclesfield(name of rivermark village) = city
-#b_sandbach = castle
-#b_nantwich = castle
-(# above indicates a possible name for unbuilt holding. dont need to set = castle, temple, etc.)
 # Misc
 culture = rorilsman
 religion = church_of_the_holy_light
 
 # History
-80.3.20 = { culture = rorilsman }
+581.3.20 = { culture = rorilsman }
 
