@@ -138,3 +138,8 @@
 	name = "Falconcrest"
 	culture = alteraci
 }
+
+51000176 = {
+	name = "Norwell"
+	culture = gilnean
+}
