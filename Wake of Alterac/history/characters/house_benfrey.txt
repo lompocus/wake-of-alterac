@@ -12,10 +12,10 @@
 	add_trait = zealous
 	add_trait = wroth
 	add_trait = stubborn
-  add_trait = charitable
+  	add_trait = charitable
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
-	 530.5.12 = {birth="539.5.12"}
+	530.5.12 = {birth="539.5.12"}
 }
 
 50000401 = {
@@ -34,7 +34,7 @@
 	add_trait = shrewd
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
-	  557.1.17 = {birth="557.1.17"}
+	557.1.17 = {birth="557.1.17"}
 }
 
 50000402 = {
