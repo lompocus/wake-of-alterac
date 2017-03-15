@@ -1,5 +1,5 @@
 50000900 = {
-	name = ""
+	name = "Christopher"
 	dynasty= 51000156 #Ardal
 	learning = 
 	martial = 
