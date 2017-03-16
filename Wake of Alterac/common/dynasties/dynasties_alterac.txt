@@ -164,7 +164,7 @@
 	culture = alteraci
 }
 51000182 = {
-	name = "Brandt"
+	name = "Brant"
 	culture = alteraci
 }
 
