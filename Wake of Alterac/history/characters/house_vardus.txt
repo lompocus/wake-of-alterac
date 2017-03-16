@@ -16,8 +16,6 @@
         add_trait = proud
         add_trait = honest
         
-        disallow_random_traits = yes
-        
         religion = church_of_the_holy_light
         culture = "uplander"
         
@@ -40,8 +38,6 @@
         add_trait = diligent
         add_trait = kind
         add_trait = administrator
-        
-        disallow_random_traits = yes
         
         father = 50003300
         
@@ -106,8 +102,6 @@
         add_trait = stubborn
         add_trait = paranoid (2nd date)
         
-        disallow_random_traits = yes
-        
         father = 50003300
         
         religion = church_of_the_holy_light
@@ -166,7 +160,8 @@
         add_trait = envious
         
         add_trait = organizer
-        disallow_random_traits = yes
+	add_trait = defensive_leader
+	disallow_random_traits = yes
         
         religion = church_of_the_holy_light
         culture = "uplander"
