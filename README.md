@@ -1,2 +1,2 @@
 # wake-of-alterac
-CK2 mod.
+CK2 mod. lolxd
