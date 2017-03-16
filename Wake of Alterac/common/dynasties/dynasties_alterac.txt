@@ -184,7 +184,7 @@
 }
 
 51000186 = {
-	name = ""
+	name = "Hatchel" (new house in 2nd date)
 	culture = alteraci
 }
 
