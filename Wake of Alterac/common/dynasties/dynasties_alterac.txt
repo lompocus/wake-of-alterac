@@ -164,8 +164,31 @@
 	culture = alteraci
 }
 51000182 = {
-	name = "Goldstead"
+	name = "Brandt"
 	culture = alteraci
 }
-51000183
-50000184
+
+51000183 = {
+	name = "Felian"
+	culture = stromic
+}
+
+51000184 = {
+	name = ""
+	culture = alteraci
+}
+
+51000185 = {
+	name = ""
+	culture = alteraci
+}
+
+51000186 = {
+	name = ""
+	culture = alteraci
+}
+
+51000187 = {
+	name = ""
+	culture = alteraci
+}
