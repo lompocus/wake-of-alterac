@@ -140,7 +140,7 @@
 
 50003007 = {
         Name = "Jorg"
-	dynasty = 51000167 #Brant, needs to be updated
+	dynasty = 51000182 #Brant
 	learning = 4
 	martial = 10
 	stewardship = 4
