@@ -1,11 +1,13 @@
 50003000 = {
         Name = "Edmund"
 	dynasty = 51000151 #Greyfeldt
+	
 	learning = 5
 	martial = 13
 	stewardship = 4
 	intrigue = 7
 	diplomacy = 5
+	
         add_trait = skilled_tactician
 	add_trait = proud
 	add_trait = greedy
@@ -13,28 +15,39 @@
 	add_trait = wroth
 	add_trait = cruel
 	add_trait = patient
+	
+	add_trait = organizer
+	add_trait = unyielding_leader
+	disallow_random_traits = yes
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	563.7.5 = {birth="563.7.5"}
         
 }
 
 50003001 = {
         Name = "Edeline"
+	female = yes
 	dynasty = 51000151 #Greyfeldt
+	
 	learning = 4
 	martial = 4
 	stewardship = 4
 	intrigue = 10
 	diplomacy = 8
+	
         add_trait = intricate_webweaver
 	add_trait = ambitious
 	add_trait = deceitful
 	add_trait = patient
 	add_trait = depressed
 	add_trait = feeble
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	561.5.20 = {birth="561.5.20"}
 	581.3.20 = {
 			employer = 50003000
@@ -44,12 +57,15 @@
 
 50003002 = {
         Name = "Patricia"
+	female = yes
 	dynasty = 51000151 #Greyfeldt
+	
 	learning = 5
 	martial = 3
 	stewardship = 3
 	intrigue = 8
 	diplomacy = 7
+	
         add_trait = amateurish_plotter
 	add_trait = deceitful
 	add_trait = drunkard
@@ -57,8 +73,10 @@
 	add_trait = cruel
 	add_trait = dull
 	add_trait = envious
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	556.1.8 = {birth="556.1.8"}
 	581.3.20 = {
 			employer = 50003000
@@ -69,11 +87,13 @@
 50003003 = {
         Name = "Harwyn"
 	dynasty = 51000167 #Harrowgate
+	
 	learning = 4
 	martial = 7
 	stewardship = 4
 	intrigue = 13
 	diplomacy = 7
+	
         add_trait = elusive_shadow
 	add_trait = deceitful
 	add_trait = greedy
@@ -81,8 +101,10 @@
 	add_trait = cruel
 	add_trait = ambitious
 	add_trait = patient
+	
 	religion = church_of_the_holy_light
         culture = "uplander"
+	
 	555.8.13 = {birth="556.8.13"}
 	581.3.20 = {
 			employer = 50003000
@@ -94,18 +116,22 @@
 50003004 = {
         Name = "James"
 	dynasty = 51000178 #Rosewood
+	
 	learning = 7
 	martial = 4
 	stewardship = 7
 	intrigue = 7
 	diplomacy = 10
+	
         add_trait = underhanded_rogue
 	add_trait = gardener
 	add_trait = diligent
 	add_trait = temperate
 	add_trait = adventurer
+	
 	religion = church_of_the_holy_light
         culture = "gilnean" #needs to be implemented
+	
 	565.10.19 = {birth="565.10.19"}
 	
 }
@@ -113,18 +139,22 @@
 50003005 = {
         Name = "Lyonel"
 	dynasty = 51000177 #Mallory
+	
 	learning = 5
 	martial = 8
 	stewardship = 4
 	intrigue = 5
 	diplomacy = 6
+	
         add_trait = misguided_warrior
 	add_trait = lustful
 	add_trait = proud
 	add_trait = ambitious
 	add_trait = wroth
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	550.4.5 = {birth="550.4.5"}
 	581.3.20 = {
 			employer = 50003000
@@ -135,18 +165,22 @@
 50003006 = {
         Name = "Elliot"
 	dynasty = 51000168 #Osprey
+	
 	learning = 4
 	martial = 8
 	stewardship = 5
 	intrigue = 4
 	diplomacy = 5
+	
         add_trait = indulgent_wastrel
 	add_trait = slothful
 	add_trait = lustful
 	add_trait = gregarious
 	add_trait = brave
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	546.12.19 = {birth="546.12.19"}
 	
 }
@@ -154,18 +188,22 @@
 50003007 = {
         Name = "Jorg"
 	dynasty = 51000182 #Brant
-	learning = 4
-	martial = 10
-	stewardship = 4
-	intrigue = 4
-	diplomacy = 4
+	
+	learning = 5
+	martial = 14
+	stewardship = 5
+	intrigue = 7
+	diplomacy = 6
+	
         add_trait = skilled_tactician
 	add_trait = quick
 	add_trait = ambitious
 	add_trait = honest
 	add_trait = cynical
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	551.2.10 = {birth="551.2.10"}
 	581.3.20 = {
 			employer = 50003000
@@ -177,18 +215,22 @@
 50003008 = {
         Name = "Robert"
 	dynasty = NONE
+	
 	learning = 8
 	martial = 8
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 4
+	
         add_trait = detached_priest
 	add_trait = deceitful
 	add_trait = greedy
 	add_trait = bad_priest_christian
 	add_trait = cruel
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	551.6.20 = {birth="551.6.20"}
 	581.3.20 = {
 			employer = 50003000
@@ -200,19 +242,23 @@
 50003009 = {
         Name = "Amadeus"
 	dynasty = 51000181 #Wayne
+	
 	learning = 5
 	martial = 5
 	stewardship = 10
 	intrigue = 5
 	diplomacy = 5
+	
         add_trait = thrifty_clerk
 	add_trait = kind
 	add_trait = charitable
 	add_trait = diligent
 	add_trait = lustful
 	add_trait = proud
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	543.4.11 = {birth="543.4.11"}
 	581.3.20 = {
 			employer = 50003000
@@ -224,18 +270,22 @@
 50003010 = {
         Name = "Wilfred"
 	dynasty = 51000179 #Cavanagh
+	
 	learning = 4
 	martial = 4
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 8
+	
         add_trait = underhanded_rogue
 	add_trait = gregarious
 	add_trait = patient
 	add_trait = content
 	add_trait = diligent
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	531.10.1 = {birth="531.10.1"}
 	581.3.20 = {
 			employer = 50003000
@@ -247,18 +297,22 @@
 50003011 = {
         Name = "Rene"
 	dynasty = NONE
+	
 	learning = 4
 	martial = 8
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 5
+	
         add_trait = tough_soldier
 	add_trait = duelist
 	add_trait = brave
 	add_trait = wroth
 	add_trait = ambitious
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	552.11.1 = {birth="552.11.1"}
 	581.3.20 = {
 			employer = 50003000
@@ -269,19 +323,23 @@
 50003012 = {
         Name = "Leoric"
 	dynasty = 51000180 #Redrayne
+	
 	learning = 4
 	martial = 7
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 4
+	
         add_trait = tough_soldier
 	add_trait = fair
 	add_trait = robust
 	add_trait = paranoid
 	add_trait = cynical
 	add_trait = content
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	551.7.4 = {birth="551.7.4"}
 	581.3.20 = {
 			employer = 50003000
@@ -292,18 +350,22 @@
 50003013 = {
         Name = "Roderick"
 	dynasty = NONE
+	
 	learning = 4
 	martial = 7
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 4
+	
         add_trait = misguided_warrior
 	add_trait = proud
 	add_trait = wroth
 	add_trait = dull
 	add_trait = stubborn
+	
 	religion = church_of_the_holy_light
         culture = "alteraci"
+	
 	556.9.14 = {birth="556.9.14"}
 	581.3.20 = {
 			employer = 50003000
