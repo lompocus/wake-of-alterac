@@ -36,6 +36,9 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	561.5.20 = {birth="561.5.20"}
+	581.3.20 = {
+			employer = 50003000
+	}
 	
 }
 
@@ -57,6 +60,9 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	556.1.8 = {birth="556.1.8"}
+	581.3.20 = {
+			employer = 50003000
+	}
         
 }
 
@@ -78,6 +84,10 @@
 	religion = church_of_the_holy_light
         culture = "uplander"
 	555.8.13 = {birth="556.8.13"}
+	581.3.20 = {
+			employer = 50003000
+			give_job_title = job_spymaster
+	}
 	
 }
 
@@ -116,6 +126,9 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	550.4.5 = {birth="550.4.5"}
+	581.3.20 = {
+			employer = 50003000
+	}
 	
 }
 
@@ -154,6 +167,10 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	551.2.10 = {birth="551.2.10"}
+	581.3.20 = {
+			employer = 50003000
+			give_job_title = job_marshal
+	}
 	
 }
 
@@ -173,6 +190,10 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	551.6.20 = {birth="551.6.20"}
+	581.3.20 = {
+			employer = 50003000
+			give_job_title = job_court_chaplain
+	}
 	
 }
 
@@ -193,6 +214,10 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	543.4.11 = {birth="543.4.11"}
+	581.3.20 = {
+			employer = 50003000
+			give_job_title = job_steward
+	}
 	
 }
 
@@ -212,6 +237,10 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	531.10.1 = {birth="531.10.1"}
+	581.3.20 = {
+			employer = 50003000
+			give_job_title = job_chancellor
+	}
 	
 }
 
@@ -231,6 +260,9 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	552.11.1 = {birth="552.11.1"}
+	581.3.20 = {
+			employer = 50003000
+	}
 	
 }
 
@@ -251,6 +283,9 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	551.7.4 = {birth="551.7.4"}
+	581.3.20 = {
+			employer = 50003000
+	}
 	
 }
 
@@ -270,5 +305,8 @@
 	religion = church_of_the_holy_light
         culture = "alteraci"
 	556.9.14 = {birth="556.9.14"}
+	581.3.20 = {
+			employer = 50003000
+	}
 	
 }
