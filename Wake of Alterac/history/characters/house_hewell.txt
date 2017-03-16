@@ -79,7 +79,7 @@
         Name = "Barahir"
 	dynasty = 51000159 #Stratford
 	learning = 4
-	martial = 10
+	martial = 14
 	stewardship = 4
 	intrigue = 5
 	diplomacy = 4
@@ -96,6 +96,7 @@
 	549.8.23 = {birth="549.8.23"}
 	581.3.20 = {
 			employer = 50000350
+			give_job_title = job_marshal
 	}
 
 }
@@ -128,10 +129,10 @@
         Name = "Roland"
 	dynasty = 51000160 #Falconhurst
 	learning = 5
-	martial = 15
+	martial = 10
 	stewardship = 4
 	intrigue = 4
-	diplomacy = 10
+	diplomacy = 8
 	add_trait = tough_soldier
 	add_trait = robust
 	add_trait = kind
@@ -167,7 +168,7 @@
 	551.8.2 = {birth="551.8.2"}
 	585.9.13 = {
 			employer = 50000352
-			give_job_title = spymaster
+			give_job_title = job_spymaster
 	}
 	
 }
@@ -191,7 +192,7 @@
 	557.12.1 = {birth="557.12.1"}
 	581.3.20 = {
 			employer = 50000350
-			give_job_title = court_chaplain
+			give_job_title = job_court_chaplain
 	}
 
 }
