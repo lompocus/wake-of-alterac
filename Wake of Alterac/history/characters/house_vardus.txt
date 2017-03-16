@@ -1,4 +1,4 @@
-50003006 = {
+50003300 = {
         Name = "Walther"
          dynasty = 51000168 #Vardus
          learning = 13
@@ -6,7 +6,7 @@
          stewardship = 18
          intrigue = 3
          diplomacy = 9
-        add_trait = administrator
+         add_trait = administrator
          add_trait = stressed
          add_trait = infirm
          add_trait = celibate
@@ -14,10 +14,11 @@
          add_trait = proud
          add_trait = honest
          religion = church_of_the_holy_light
-                culture = "alteraci"
+         culture = "alteraci"
          546.12.19 = {birth="546.12.19"}
+         }
 
-50003006 = {
+50003301 = {
         Name = "Wylis"
          dynasty = 51000168 #Vardus
          learning = 
@@ -33,9 +34,11 @@
          religion = church_of_the_holy_light
                 culture = "alteraci"
          546.12.19 = {birth="546.12.19"}  
+         
+         }
 
 
-50003006 = {
+50003302 = {
         Name = "John"
          dynasty = 51000168 #Osgrey
          learning = 
@@ -50,8 +53,9 @@
          add_trait = 
          religion = church_of_the_holy_light
                 culture = "alteraci"
-         546.12.19 = {birth="546.12.19"}  
-         50003006 = {
+         546.12.19 = {birth="546.12.19"} 
+         }
+50003303 = {
          
         Name = "Elisa"
          dynasty = 51000168 #Vardus
@@ -68,8 +72,9 @@
          religion = church_of_the_holy_light
                 culture = "alteraci"
          546.12.19 = {birth="546.12.19"}  
+        }
          
-         50003006 = {
+50003304 = {
         Name = "John"
          dynasty = 51000168 #Osgrey
          learning = 
@@ -85,4 +90,5 @@
          religion = church_of_the_holy_light
                 culture = "alteraci"
          546.12.19 = {birth="546.12.19"}  
-         50003006 = {
+    }
+         50003305 = {
