@@ -1,94 +1,176 @@
 50003300 = {
         Name = "Walther"
-         dynasty = 51000168 #Vardus
-         learning = 13
-         martial = 7
-         stewardship = 18
-         intrigue = 3
-         diplomacy = 9
-         add_trait = administrator
-         add_trait = stressed
-         add_trait = infirm
-         add_trait = celibate
-         add_trait = temperate
-         add_trait = proud
-         add_trait = honest
-         religion = church_of_the_holy_light
-         culture = "alteraci"
-         546.12.19 = {birth="546.12.19"}
-         }
+        dynasty = 51000155 #Vardus
+        
+        learning = 13
+        martial = 7
+        stewardship = 18
+        intrigue = 4
+        diplomacy = 9
+        
+        add_trait = administrator
+        add_trait = stressed
+        add_trait = infirm
+        add_trait = celibate
+        add_trait = temperate
+        add_trait = proud
+        add_trait = honest
+        
+        disallow_random_traits = yes
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        546.12.19 = {birth="546.12.19"} #needs to be updated
+        
+}
 
 50003301 = {
         Name = "Wylis"
-         dynasty = 51000168 #Vardus
-         learning = 
-         martial = 
-         stewardship = 
-         intrigue = 
-         diplomacy = 
-         add_trait =
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         religion = church_of_the_holy_light
-                culture = "alteraci"
-         546.12.19 = {birth="546.12.19"}  
+        dynasty = 51000155 #Vardus
+        
+        learning = 4
+        martial = 4
+        stewardship = 8
+        intrigue = 4
+        diplomacy = 4
+        
+        add_trait = thrifty_clerk
+        add_trait = content
+        add_trait = diligent
+        add_trait = kind
+        add_trait = administrator
+        
+        disallow_random_traits = yes
+        
+        father = 50003300
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        557.5.15 = {birth="557.5.15"}
+        581.3.20 = {
+			employer = 50003300
+	}
          
-         }
+}
 
 
 50003302 = {
         Name = "John"
-         dynasty = 51000168 #Osgrey
-         learning = 
-         martial = 
-         stewardship = 
-         intrigue = 
-         diplomacy = 
-         add_trait =
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         religion = church_of_the_holy_light
-                culture = "alteraci"
-         546.12.19 = {birth="546.12.19"} 
-         }
+        dynasty = 51000163 #Osgrey
+        
+        learning = 4
+        martial = 13
+        stewardship = 4
+        intrigue = 5
+        diplomacy = 7
+        
+        add_trait = skilled_tactician
+        add_trait = ambitious
+        add_trait = wroth
+        add_trait = adventurer
+        add_trait = kinslayer
+        add_trait = brave
+        
+        add_trait = aggressive_leader
+        add_trait = siege_leader
+        disallow_random_traits = yes
+        
+        father = 50003300
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        552.5.3 = {birth="552.5.3"}
+        
+}
+         
 50003303 = {
          
         Name = "Elisa"
-         dynasty = 51000168 #Vardus
-         learning = 11
-         martial = 4 (1st date) 10 (2nd date, barahir training)
-         stewardship = 9
-         intrigue = 4
-         diplomacy = 14
-         add_trait = humble
-         add_trait = honest
-         add_trait = just
-         add_trait = trusting
-         add_trait = paranoid (2nd date)
-         religion = church_of_the_holy_light
-                culture = "alteraci"
-         546.12.19 = {birth="546.12.19"}  
-        }
-         
+        dynasty = 51000155 #Vardus
+        
+        learning = 11
+        martial = 4 (1st date) 10 (2nd date, barahir training)
+        stewardship = 9
+        intrigue = 4
+        diplomacy = 14
+        
+        add_trait = charismatic_negotiator
+        add_trait = depressed
+        add_trait = kind
+        add_trait = scholar
+        add_trait = adventurer
+        add_trait = gregarious
+        add_trait = stubborn
+        add_trait = paranoid (2nd date)
+        
+        disallow_random_traits = yes
+        
+        father = 50003300
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        559.8.22 = {birth="559.8.22"}
+        581.3.20 = {
+			employer = 50003300
+	}
+        
+}
+
+###Second John when he becomes Vardus??###
 50003304 = {
         Name = "John"
-         dynasty = 51000168 #Osgrey
-         learning = 
-         martial = 
-         stewardship = 
-         intrigue = 
-         diplomacy = 
-         add_trait =
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         add_trait = 
-         religion = church_of_the_holy_light
-                culture = "alteraci"
-         546.12.19 = {birth="546.12.19"}  
+        dynasty = 51000163 #Osgrey
+        
+        learning = 
+        martial = 
+        stewardship = 
+        intrigue = 
+        diplomacy = 
+        
+        add_trait =
+        add_trait = 
+        add_trait = 
+        add_trait = 
+        add_trait = 
+        
+        add_trait = aggressive_leader
+        add_trait = siege_leader
+        disallow_random_traits = yes
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        552.5.3 = {birth="552.5.3"} #why 2???
+        
     }
-         50003305 = {
+    
+50003305 = {
+        Name = "William"
+        dynasty = 51000164 #Ravenslowe
+        
+        learning = 5
+        martial = 11
+        stewardship = 6
+        intrigue = 4
+        diplomacy = 4
+        
+        add_trait = skilled_tactician
+        add_trait = ambitious
+        add_trait = chaste
+        add_trait = stubborn
+        add_trait = brave
+        add_trait = envious
+        
+        add_trait = organizer
+        disallow_random_traits = yes
+        
+        religion = church_of_the_holy_light
+        culture = "uplander"
+        
+        556.7.11 = {birth="556.7.11"}
+        
+    }
