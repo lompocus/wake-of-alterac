@@ -1,0 +1,15 @@
+# 3 - Strahnbrad
+
+# County Title
+title = c_strahnbrad
+
+# Settlements
+max_settlements = 3(?)
+
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = alteraci }
