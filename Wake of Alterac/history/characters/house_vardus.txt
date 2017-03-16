@@ -85,6 +85,7 @@
 50003303 = {
          
         Name = "Elisa"
+	female = yes
         dynasty = 51000155 #Vardus
         
         learning = 11
