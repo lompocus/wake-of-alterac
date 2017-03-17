@@ -1,0 +1,6 @@
+name = "Wake of Alterac"
+user_dir = "Wake of Alterac/temp_files"
+path = "mod/Wake of Alterac"
+replace_path = "history/characters"
+replace_path = "history/provinces"
+replace_path = "history/titles"
