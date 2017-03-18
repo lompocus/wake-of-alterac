@@ -64,6 +64,9 @@
 50000352 = {
 	Name = "William"
 	dynasty = 51000150 #Hewell
+	dna="baigd0g0af0"
+        properties="ah0i0k00000000"
+
 	
 	learning = 4
 	martial = 14
