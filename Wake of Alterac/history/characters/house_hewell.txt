@@ -106,7 +106,7 @@
 50000353 = {
         Name = "Barahir"
 	dynasty = 51000159 #Stratford
-	dna="bgaea0i00f0"
+	dna="bgaea0i0ff0"
         properties="ei0kak0b000000"
 
 	learning = 4
@@ -295,7 +295,7 @@
 50000360 = {
         Name = "Medrick"
 	dynasty = NONE
-	dna="ahdfb00abf0"
+        dna="ahdfb00a0f0"
         properties="em0ifk00000000"
 
 	learning = 8
@@ -453,7 +453,7 @@
 	add_trait = kind
 	
 	religion = church_of_the_holy_light
-	culture = "rorilsman"
+	culture = "alteraci"
 	
 	563.10.20 = {birth="563.10.20"}
 	585.9.13 = {
@@ -465,7 +465,9 @@
 50000366 = {
         Name = "Drake"
 	dynasty = 51000170 #Hayward
-	
+        dna="bff000b0cf0"
+        properties="en0ifk00000000"
+
 	learning = 4
 	martial = 10
 	stewardship = 4
@@ -493,7 +495,9 @@
 50000366 = {
         Name = "Herjast"
 	dynasty = NONE
-	
+	dna="bifad000ab0"
+        properties="ei0gjk00000000"
+
 	learning = 6
 	martial = 4
 	stewardship = 13
@@ -518,24 +522,23 @@
 }
 
 50000367 = {
-        Name = "Ada"
-	female = yes
+        Name = "Mathis"
 	dynasty = NONE
-	
+	dna="biaeb0b0cb0"
+        properties="ei0igk00000000"
+
 	learning = 4
-	martial = 4
+	martial = 7
 	stewardship = 4
-	intrigue = 4
+	intrigue = 5
 	diplomacy = 4
 	
-	add_trait = detached_priest
-	add_trait = genius
-	add_trait = lunatic
-	add_trait = weak
-	add_trait = cynical
-	add_trait = craven
+	add_trait = misguided_warrior
+	add_trait = homosexual
+	add_trait = stressed
+	add_trait = kind
 	add_trait = deceitful
-	add_trait = socializer
+	add_trait = gregarious
 	
 	religion = church_of_the_holy_light
 	culture = "rorilsman"
@@ -546,3 +549,30 @@
 	}
 	
 }	
+
+50000368 = {
+        Name = "Fenira"
+	female = yes
+	dynasty = #needs to be updated waiting on AB###
+	
+	learning = 
+	martial = 
+	stewardship = 
+	intrigue = 
+	diplomacy = 
+	
+	add_trait = misguided_warrior
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	add_trait = 
+	
+	religion = church_of_the_holy_light
+	culture = "stormwindian"
+	
+	558.1.3 = {birth="558.1.3"} #needs to be updated, waiting on AB###
+	581.3.20 = {
+			employer = 50000350
+			
+}
