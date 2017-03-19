@@ -1,1 +1,25 @@
-fill this shit in l8r
+# 3 - Alterac
+
+# County Title
+title = c_alterac
+
+# Settlements
+max_settlements = 7
+b_alterac = castle
+b_tyrs_grace = temple
+b_alterac_city = city
+b_caer_perenolde = castle
+b_heartland = temple
+b_crownguard = castle
+b_fort_perenolde = castle
+
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = alteraci }
+
+
+

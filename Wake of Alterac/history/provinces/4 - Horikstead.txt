@@ -1,1 +1,16 @@
-l8r
+# 4 - Horikstead
+
+# County Title
+title = c_horikstead
+
+# Settlements
+max_settlements = 2
+b_horikstead = castle
+b_southwatch = city
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = alteraci }

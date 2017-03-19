@@ -5,7 +5,8 @@ title = c_rivermark
 
 # Settlements
 max_settlements = 5
-b_rivermark = temple
+b_rivermark = castle
+b_thondroril = temple
 b_riverwatch = city
 b_rorilstead = castle
 b_ravenholdt = castle

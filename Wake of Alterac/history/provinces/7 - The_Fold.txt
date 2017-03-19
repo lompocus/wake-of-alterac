@@ -4,11 +4,12 @@
 title = c_the_fold
 
 # Settlements
-max_settlements = 4
-b_the_fold = temple
+max_settlements = 5
+b_the_fold = castle
+b_uplands = temple
 b_lordamere = city
+
 #b_lakewatch = castle
-#b_upland = temple
 #b_lakeport = city
 
 

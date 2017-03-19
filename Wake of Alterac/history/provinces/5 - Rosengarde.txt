@@ -1,1 +1,21 @@
-l8r
+# 5 - Rosengarde
+
+# County Title
+title = c_rosengarde
+
+# Settlements
+max_settlements = 4
+b_rosengarde = castle
+b_laurel = city
+b_southern_alterac = temple
+b_caer_greyfeldt = castle
+
+
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = alteraci }
+

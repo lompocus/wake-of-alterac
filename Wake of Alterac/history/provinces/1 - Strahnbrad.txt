@@ -4,12 +4,16 @@
 title = c_strahnbrad
 
 # Settlements
-max_settlements = 3(?)
+max_settlements = 3
+b_vardus_hold = castle
+b_strahnbrad = city
+b_vardus = temple
+
 
 
 # Misc
-culture = alteraci
+culture = uplander
 religion = church_of_the_holy_light
 
 # History
-581.3.20 = { culture = alteraci }
+581.3.20 = { culture = uplander }

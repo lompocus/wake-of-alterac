@@ -1,1 +1,21 @@
+# 6 - Tyrburg
+
+# County Title
+title = c_tyrburg
+
+# Settlements
+max_settlements = 4
+b_caer_benfrey = castle
+b_tyr = temple
+b_tyrburg = city
+b_tyrs_fist = castle
+
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = alteraci }
+
 

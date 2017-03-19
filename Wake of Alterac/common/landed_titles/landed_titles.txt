@@ -4,8 +4,102 @@ k_alterac = {
 	capital = 3 # Alterac
 	dignity = 8
 	
+	d_alterac = {
+		color = { 235 150 20 }
+		capital = 3 #Alterac
+		c_alterac = {
+			color { 235 145 21 }
+			b_alterac = {
+			}
+			b_tyrs_grace = {
+				controls_religion = church_of_the_holy_light
+			}
+			b_alterac_city = {
+			}
+			b_caer_perenolde = {
+			}
+			b_heartland = {
+			}
+			b_crownguard = {
+			}
+			b_fort_perenolde = {
+			}
+		}
+		c_rosengarde = {
+			color = { 237 172 83 }
+			b_rosengarde = {
+			}
+			b_laurel = {
+			}
+			b_southern_alterac = {
+			}
+			b_caer_greyfeldt = {
+			}
+		}
+		c_horikstead = {
+			color = { 249 150 14 }
+			b_horikstead = {
+			}
+			b_southwatch = {
+			}
+		}
+	}
 	d_uplands = {
 		color = { 168 234 140 }
 		capital = 7 #The Fold
-		c_the_fold
+		c_the_fold = {
+			color = { 20 72 168 }
+			b_the_fold = {
+			}
+			b_uplands = {
+			}
+			b_lordamere = {
+			}
+			b_lakewatch = {
+			}
+			b_lakeport = {
+			}
+		}
+		c_strahnbrad = {
+			color = { 255 238 0 }
+			b_caer_vardus = {
+			}
+			b_strahnbrad = {
+			}
+			b_vardus = temple = {
+			}
+		}
+	}
+	d_thondroril = {
+		color = { 137, 30, 30 }
+		capital = 2 #Rivermark
+			c_rivermark = {
+				color = { 142 16 7 }
+				b_rivermark = {
+				}
+				b_thondroril = {
+				}
+				b_riverwatch = {
+				}
+				b_rorilstead = {
+				}
+				b_ravenholdt = {
+				}
+			}
+			c_tyrburg = {
+				color = { 61 60 57 }
+				b_caer_benfrey = {
+				}
+				b_tyr = {
+				}
+				b_tyrburg = {
+				}
+				b_tyrs_fist = {
+				}
+			}
+		}
+	}
+
+			
+			
 		
