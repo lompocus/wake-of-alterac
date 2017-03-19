@@ -84,7 +84,7 @@ rorilsman = {
 		graphical_cultures = { englishgfx }
 		color = { 0.25 0.5 0.75 }
 		male_names = {
-			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Duncan_Duncan Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred_Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Duncan_Duncan Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
 			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
 			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
 		}
@@ -115,11 +115,11 @@ lodaeron = {
 		graphical_cultures = { occitangfx }
 		color = { 0.25 0.4 0.9 }
 		male names = {
-			
+			Adrian_Adrian Alcarious_Alcarious Anhalt_Anhalt Aubren_Aubren Audric_Audric Baric_Baric Barion_Barion Barley_Barley Benjamin_Benjamin Cade_Cade Cair_Cair Derrick_Derrick Edrion_Edrion Eldric_Eldric Falric_Falric Ferris_Ferris Garret_Garret Godric_Godric Godwin_Godwin Terenas_Terenas
 		}
 		
 		female_names = {
-			names here
+			Abbey_Abbey Abigail_Abigail April_April Audrey_Audrey Bess_Bess Bethany_Bethany Brianne_Brianne Carol_Carol Carrie_Carrie Catherine_Catherine Charlotte_Charlotte Claire_Claire Clara_Clara Daisy_Daisy Dawn_Dawn Delia_Delia Doris_Doris Elaine_Elaine Eleanor_Eleanor Emma_Emma Eva_Eva Faith_Faith Hayley_Hayley Hazel_Hazel 
 		}
 		from_dynasty_prefix = "of "
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
