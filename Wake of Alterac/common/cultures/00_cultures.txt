@@ -1,4 +1,4 @@
-crownlands = {
+alteraci = {
 	graphical_cultures = { { germangfx } }
 	alteraci = {
 		graphical_cultures = { germangfx }
@@ -74,7 +74,7 @@ crownlands = {
 
 		modifier = default_culture_modifier
 	}
-		
+}
 
 	
 rorilsman = {
@@ -109,7 +109,7 @@ rorilsman = {
 	}
 }
 
-lodaeron = {
+lordaeronian = {
 	graphical_cultures = { occitangfx }
 	lordaeronian = {
 		graphical_cultures = { occitangfx }
@@ -131,6 +131,38 @@ lodaeron = {
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
+	}
+}
+gilnean = {
+	graphical_cultures = { frankishgfx }
+	gilnean = {
+		graphical_cultures = { frankishgfx }
+		color = { 0.5 0.5 0.5 }
+	
+		male_names = {
+				Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+				Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+				Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+			}
+			female_names = {
+				Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elisabeth Emma_Emma Hawise Isabel_Elisabeth
+				Isabella_Elisabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+			}
+			from_dynasty_prefix = "of "
+			bastard_dynasty_prefix = "Fitz"
+
+			modifier = default_culture_modifier
+			# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+			pat_grf_name_chance = 30
+			mat_grf_name_chance = 10
+			father_name_chance = 25
+			
+			# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+			pat_grm_name_chance = 20
+			mat_grm_name_chance = 40
+			mother_name_chance = 5
+		}
+}
 		
 		
 		
