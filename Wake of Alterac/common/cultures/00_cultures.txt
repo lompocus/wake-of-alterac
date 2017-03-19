@@ -1,0 +1,147 @@
+crownlands = {
+	graphical_cultures = { { germangfx } }
+	alteraci = {
+		graphical_cultures = { germangfx }
+		
+		color = { 0.96 0.39 0.08 }
+		
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Duncan_Duncan Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elisabeth Emma_Emma Hawise Isabel_Elisabeth
+			Isabella_Elisabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	uplander = {
+		graphical_cultures = { germangfx }
+		color = { 0.9 0.4 0.1 }
+		male_names = {
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric
+			Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Arnold_Arnold Arnulf_Arnulf Augustin_August Baldarich_Baldric
+			Baldewin_Baldwin Baldomar Baldur_Balder Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard Christopher_Christopher
+			Dieter_Dieter Dietmar_Dietmar Dietpold Dietrich_Thierry Dietwin Eberhard_Everard Eginolf Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric
+			Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest Ferdinand_Ferdinand Filibert_Filibert Folkhard Folkmar Franz_Francis Friedrich_Frederick
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk
+			Gotzelo Guntram Gunzelin_Günther Günther_Günther Hans_Hans Hartmann Hartwig Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso
+			Hugo_Hugh Humbert_Humbert Hupold Jakob_Jacob Johann_John Jürgen_George Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Konrad Kuno_Konrad
+			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
+			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert_Norbert
+			Otto_Otto Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reginald Rudolf_Ralph Ruprecht_Robert Rutger_Roger Siegfried_Siegfried
+			Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
+			Udalrich_Ulrich Ulrich_Ulrich Viktor_Victor Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy
+			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram
+		}
+		
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia Barbara
+			Beatrix_Beatrice Benedicta_Benedicta Berchte Berta_Bertha Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Christine_Christina
+			Cothilda_Clotilde Dorothea_Dorothy Elisabeth_Elisabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia_Euphemia
+			Frida Friedrica_Frederique Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild
+			Hedwig_Hedwig Heike Heilwiva Helene_Helen Helga Hemma_Emma Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inga_Inga
+			Ingeltrude Irmele Irmeltrud Irmgard_Ermengarde Isentrude Jutta_Judith Karlotte_Caroline Katharina_Catherine Klara_Clara
+			Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Maria_Maria
+			Mechthild_Matilda Oda Osterhild Richara_Ricarda Richenza Richwara Romilda Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla Trude
+			Ulrike Ursula Ute_Ute Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
+		}
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+		
+
+	
+rorilsman = {
+	graphical_cultures = { englishgfx }
+	
+	rorilsman = {
+		graphical_cultures = { englishgfx }
+		color = { 0.25 0.5 0.75 }
+		male_names = {
+			Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Duncan_Duncan Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+			Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+			Ralph_Ralph Randolph_Ralph Reginald Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+		}
+		
+
+	
+		female_names = {
+			Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elisabeth Emma_Emma Hawise Isabel_Elisabeth
+			Isabella_Elisabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Mahaut Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+		}
+		from_dynasty_prefix = "of "
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+lodaeron = {
+	graphical_cultures = { occitangfx }
+	lordaeronian = {
+		graphical_cultures = { occitangfx }
+		color = { 0.25 0.4 0.9 }
+		male names = {
+			
+		}
+		
+		female_names = {
+			names here
+		}
+		from_dynasty_prefix = "of "
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
