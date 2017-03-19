@@ -35,6 +35,7 @@ holy_light = {
 		crusade_name = CRUSADE
 		scripture_name = BOOK_OF_TYR
 		priest_title = PRIEST
+		hostile_within_group = yes
 		
 		high_god_name = THE_LIGHT
 		
