@@ -4,8 +4,6 @@
 	dna="bbd0c00c0f0"
         properties="en00gk00000000"
 
-
-	
 	learning = 6
 	martial = 20
 	stewardship = 7
@@ -38,7 +36,9 @@
 50000351 = {
 	name = "Alfred"
 	dynasty = 51000150 #Hewell
-	
+	dna="bfihi0b0hf0"
+        properties="ec0eik00000000"
+
 	learning = 13
 	martial = 4
 	stewardship = 10
@@ -68,10 +68,9 @@
 50000352 = {
 	Name = "William"
 	dynasty = 51000150 #Hewell
-	dna="baigd0g0af0"
-        properties="ah0i0k00000000"
+	dna="baihg0g00f0"
+        properties="ei0i0k00000000"
 
-	
 	learning = 4
 	martial = 14
 	stewardship = 6
@@ -107,7 +106,9 @@
 50000353 = {
         Name = "Barahir"
 	dynasty = 51000159 #Stratford
-	
+	dna="bgaea0i00f0"
+        properties="ei0kak0b000000"
+
 	learning = 4
 	martial = 14
 	stewardship = 4
@@ -138,7 +139,9 @@
 50000354 = {
         Name = "Gwaine"
 	dynasty = 51000157 #Lancaster
-	
+	dna="bgigb0a00f0"
+        properties="ed0fck00000000"
+
 	learning = 10
 	martial = 10
 	stewardship = 4
@@ -168,7 +171,9 @@
 50000355 = {
         Name = "Roland"
 	dynasty = 51000160 #Falconhurst
-	
+	dna="bgaac0b00f0"
+        properties="ej0cfk00000000"
+
 	learning = 5
 	martial = 10
 	stewardship = 4
