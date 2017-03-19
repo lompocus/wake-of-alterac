@@ -438,7 +438,9 @@
         Name = "Vivian"
 	female = yes
 	dynasty = NONE
-	
+	dna="beffe0d0ed0"
+        properties="ec0k0k00000000"
+
 	learning = 5
 	martial = 4
 	stewardship = 4
@@ -554,7 +556,9 @@
         Name = "Fenira"
 	female = yes
 	dynasty = #needs to be updated waiting on AB###
-	
+	dna="befce000ea0"
+        properties="eb0i0k00000000"
+
 	learning = 
 	martial = 
 	stewardship = 
