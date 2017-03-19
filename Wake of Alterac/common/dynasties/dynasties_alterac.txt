@@ -189,6 +189,6 @@
 }
 
 51000187 = {
-	name = ""
-	culture = alteraci
+	name = "Darwell"
+	culture = stormwindian
 }
