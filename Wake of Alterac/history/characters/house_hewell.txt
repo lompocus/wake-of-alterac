@@ -200,7 +200,9 @@
 50000357 = {
         Name = "Edwin"
 	dynasty = 51000150 #Hewell
-	
+	dna="ac00d0h0ib0"
+        properties="ek0i0k00000000"
+
 	learning = 6
 	martial = 12
 	stewardship = 7
@@ -229,7 +231,9 @@
 50000358 = {
         Name = "Nazarius"
 	dynasty = 51000158 #Howe
-	
+	dna="a0hgg000be0"
+        properties="ef000000000000"
+
 	learning = 13
 	martial = 4
 	stewardship = 7
@@ -257,7 +261,9 @@
 50000359 = {
         Name = "Richardt"
 	dynasty = 51000172 #Chamberlain
-	
+	dna="acacb0aabf0"
+        properties="eh0idk0a000000"
+
 	learning = 4
 	martial = 11
 	stewardship = 6
@@ -289,7 +295,9 @@
 50000360 = {
         Name = "Medrick"
 	dynasty = NONE
-	
+	dna="ahdfb00abf0"
+        properties="em0ifk00000000"
+
 	learning = 8
 	martial = 7
 	stewardship = 4
@@ -318,7 +326,9 @@
         Name = "Freyja"
 	female = yes
 	dynasty = NONE
-	
+	dna="ahcde0e0hf0"
+        properties="ec0i0k00000000"
+
 	learning = 4
 	martial = 7
 	stewardship = 4
@@ -355,7 +365,7 @@
 	
 	add_trait = misguided_warrior
 	add_trait = cruel
-	add_trait = scarred
+	add_trait = slow
 	add_trait = wroth
 	add_trait = lunatic
 	add_trait = stubborn
@@ -481,20 +491,20 @@
 }
 
 50000366 = {
-        Name = "Edwyn"
-	dynasty = 51000171 #Norford
+        Name = "Herjast"
+	dynasty = NONE
 	
-	learning = 4
-	martial = 6
-	stewardship = 4
+	learning = 6
+	martial = 4
+	stewardship = 13
 	intrigue = 4
-	diplomacy = 4
+	diplomacy = 10
 	
-	add_trait = misguided_warrior
+	add_trait = fortune_builder
 	add_trait = honest
 	add_trait = kind
-	add_trait = craven
-	add_trait = paranoid
+	add_trait = gregarious
+	add_trait = patient
 	add_trait = content
 	
 	religion = church_of_the_holy_light
