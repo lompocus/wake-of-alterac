@@ -60,3 +60,23 @@ holy_light = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
+
+	reformed = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		heresy_icon = 6
+		
+		color = { 0.5 0.5 0.9 }
+		parent = catholic
+		hostile_within_group = yes
+		
+		crusade_name = CRUSADE
+
+		can_retire_to_monastery = yes
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
