@@ -1,1 +1,20 @@
-gg
+# 7 - The Fold
+
+# County Title
+title = c_the_fold
+
+# Settlements
+max_settlements = 4
+b_the_fold = temple
+b_lordamere = city
+#b_lakewatch = castle
+#b_upland = temple
+#b_lakeport = city
+
+
+# Misc
+culture = uplander
+religion = church_of_the_holy_light
+
+# History
+581.3.20 = { culture = uplander }

@@ -1,0 +1,11 @@
+k_alterac = {
+	color = { 242 153 19 }
+	culture = alteraci
+	capital = 3 # Alterac
+	dignity = 8
+	
+	d_uplands = {
+		color = { 168 234 140 }
+		capital = 7 #The Fold
+		c_the_fold
+		
