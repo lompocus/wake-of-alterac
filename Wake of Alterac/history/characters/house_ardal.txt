@@ -27,7 +27,9 @@
 50000901 = {
 	name = "Grace"
 	dynasty= 51000156 #Ardal
-	
+	dna="cgcfi0e0cb0"
+        properties="ea0f0k00000000"
+
 	learning = 5
 	martial = 6
 	stewardship = 12 
