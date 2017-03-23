@@ -1,51 +1,62 @@
 50000900 = {
 	name = "Christopher"
 	dynasty= 51000156 #Ardal
+	
 	learning = 9
 	martial = 13
 	stewardship = 15 
 	intrigue = 11
 	diplomacy = 8
+	
 	add_trait = ambitious
 	add_trait = gregarious
 	add_trait = just
 	add_trait = diligent
 	add_trait = midas_touched
-	add_trait = siege_leader
 	add_trait = deceitful
   	add_trait = stubborn
+	
+	add_trait = siege_leader
+	
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
+	
 	552.3.20 = {birth="552.3.20"}
 }
 
 50000901 = {
 	name = "Grace"
 	dynasty= 51000156 #Ardal
+	
 	learning = 5
 	martial = 6
 	stewardship = 12 
 	intrigue = 6
 	diplomacy = 9
+	
 	add_trait = gregarious
 	add_trait = humble
 	add_trait = chaste
 	add_trait = diligent
 	add_trait = wroth
 	add_trait = stressed
+	
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
+	
 	556.3.19  = {birth="556.3.20"}
 }
 
 50000902 = {
 	name = ""
 	dynasty= 51000156 #Ardal
+	
 	learning = 
 	martial = 
 	stewardship = 
 	intrigue = 
 	diplomacy = 
+	
 	add_trait = 
 	add_trait = 
 	add_trait = 
@@ -53,19 +64,23 @@
 	add_trait = 
 	add_trait = 
   	add_trait = 
+	
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
+	
 	  = {birth=""}
 }
 
 5000093 = {
 	name = ""
 	dynasty= 51000156 #Ardal
+	
 	learning = 
 	martial = 
 	stewardship = 
 	intrigue = 
 	diplomacy = 
+	
 	add_trait = 
 	add_trait = 
 	add_trait = 
@@ -73,7 +88,9 @@
 	add_trait = 
 	add_trait = 
   	add_trait = 
+	
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
+	
 	  = {birth=""}
 }
