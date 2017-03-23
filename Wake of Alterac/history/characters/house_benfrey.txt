@@ -1,11 +1,13 @@
 50000400 = {
 	name = "Robert"
 	dynasty= 51000153 #Benfrey
+	
 	learning = 4
 	martial = 9
 	stewardship = 5
 	intrigue = 4
 	diplomacy = 8
+	
 	add_trait = brilliant_strategist
 	add_trait = humble
 	add_trait = brave
@@ -13,61 +15,76 @@
 	add_trait = wroth
 	add_trait = stubborn
   	add_trait = charitable
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	530.5.12 = {birth="539.5.12"}
 }
 
 50000401 = {
 	name = "Alfyn"
 	dynasty= 51000153 #Benfrey
+	
 	learning = 5
 	martial = 11
 	stewardship = 4
 	intrigue = 6
-	diplomacy = bastard
+	diplomacy = 4
+	
+	add_trait = bastard
 	add_trait = tough_soldier
 	add_trait = celibate
 	add_trait = kinslayer
 	add_trait = zealous
 	add_trait = wroth
 	add_trait = shrewd
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	557.1.17 = {birth="557.1.17"}
 }
 
 50000402 = {
 	name = "Jon"
 	dynasty= 51000153 #Allard
+	
 	learning = 5
 	martial = 13
 	stewardship = 4
 	intrigue = 6
 	diplomacy = 3
+	
 	add_trait = stubborn
 	add_trait = just
 	add_trait = zealous
 	add_trait = inspiring leader
 	add_trait = skilled_tactician
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	  = {birth="534.1.13"}
 }
 
 50000403 = {
 	name = "Alec"
 	dynasty= 51000153 #Lancett
+	
 	learning = 5
 	martial = 7
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 7
+	
 	add_trait = wroth
 	add_trait = stubborn
 	add_trait = craven
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	  = {birth=""}
 }
 
