@@ -48,31 +48,34 @@
 	religion = "church_of_the_holy_light"
 	culture = "rorilsman"
 	
-	556.3.19  = {birth="556.3.20"}
+	556.3.19 = {birth="556.3.20"}
+	585.9.13 = {
+			employer = 50000900
+	}
 }
 
 50000902 = {
-	name = ""
-	dynasty= 51000156 #Ardal
+	name = "Charles"
+	dynasty= 51000189 #Donant
+	dna="0hhed0bc0f0"
+        properties="tg0iaj0b000000"
+
+	learning = 4
+	martial = 10
+	stewardship = 5
+	intrigue = 4
+	diplomacy = 4
 	
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	add_trait = tough_soldier
+	add_trait = genius
 	
 	religion = "church_of_the_holy_light"
-	culture = "rorilsman"
-	
-	  = {birth=""}
+	culture = "stormwindian"
+
+	561.11.1 = {birth="561.11.1"}
+	585.9.13 = {
+			employer = 50000900
+	}
 }
 
 5000093 = {
