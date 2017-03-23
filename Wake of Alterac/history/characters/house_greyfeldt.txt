@@ -1,7 +1,9 @@
 50003000 = {
         Name = "Edmund"
 	dynasty = 51000151 #Greyfeldt
-	
+	dna="acdgc0c0gf0"
+        properties="eg0bfk00000000"
+
 	learning = 5
 	martial = 13
 	stewardship = 4
@@ -31,7 +33,9 @@
         Name = "Edeline"
 	female = yes
 	dynasty = 51000151 #Greyfeldt
-	
+	dna="aacgc0h0ff0"
+        properties="ea0h0d00000000"
+
 	learning = 4
 	martial = 4
 	stewardship = 4
@@ -59,7 +63,9 @@
         Name = "Patricia"
 	female = yes
 	dynasty = 51000151 #Greyfeldt
-	
+	dna="bdbi0000ff0"
+        properties="ec0j0k00000000"
+
 	learning = 5
 	martial = 3
 	stewardship = 3
@@ -87,7 +93,9 @@
 50003003 = {
         Name = "Harwyn"
 	dynasty = 51000167 #Harrowgate
-	
+	dna="bcgbf0ab0f0"
+        properties="ei0dmk00000000"
+
 	learning = 4
 	martial = 7
 	stewardship = 4
@@ -116,7 +124,9 @@
 50003004 = {
         Name = "James"
 	dynasty = 51000178 #Rosewood
-	
+	dna="ccdjf000000"
+        properties="ei0e0k00000000"
+
 	learning = 7
 	martial = 4
 	stewardship = 7
@@ -130,7 +140,7 @@
 	add_trait = adventurer
 	
 	religion = church_of_the_holy_light
-        culture = "gilnean" #needs to be implemented
+        culture = "gilnean"
 	
 	565.10.19 = {birth="565.10.19"}
 	
@@ -139,7 +149,9 @@
 50003005 = {
         Name = "Lyonel"
 	dynasty = 51000177 #Mallory
-	
+	dna="bhghc0c00f0"
+        properties="eg0d0k00000000"
+
 	learning = 5
 	martial = 8
 	stewardship = 4
@@ -165,7 +177,9 @@
 50003006 = {
         Name = "Elliot"
 	dynasty = 51000168 #Osprey
-	
+	dna="aea0e0i0hf0"
+        properties="ed0ihk00000000"
+
 	learning = 4
 	martial = 8
 	stewardship = 5
@@ -188,7 +202,9 @@
 50003007 = {
         Name = "Jorg"
 	dynasty = 51000182 #Brant
-	
+	dna="bcegd0cbff0"
+        properties="ee0dek00000000"
+
 	learning = 5
 	martial = 14
 	stewardship = 5
@@ -215,7 +231,9 @@
 50003008 = {
         Name = "Robert"
 	dynasty = NONE
-	
+	dna="acbaf0f0aa0"
+        properties="ef0h0i00000000"
+
 	learning = 8
 	martial = 8
 	stewardship = 4
@@ -242,7 +260,9 @@
 50003009 = {
         Name = "Amadeus"
 	dynasty = 51000181 #Wayne
-	
+	dna="aeebf0g0af0"
+        properties="eg0ifk00000000"
+
 	learning = 5
 	martial = 5
 	stewardship = 10
@@ -270,7 +290,9 @@
 50003010 = {
         Name = "Wilfred"
 	dynasty = 51000179 #Cavanagh
-	
+	dna="bdcef0c00e0"
+        properties="eg0ehk0c000000"
+
 	learning = 4
 	martial = 4
 	stewardship = 4
@@ -297,7 +319,9 @@
 50003011 = {
         Name = "Rene"
 	dynasty = NONE
-	
+	dna="b0fad0d0af0"
+        properties="ed0dek00000000"
+
 	learning = 4
 	martial = 8
 	stewardship = 4
@@ -323,7 +347,9 @@
 50003012 = {
         Name = "Leoric"
 	dynasty = 51000180 #Redrayne
-	
+	dna="bcfad0f0ff0"
+        properties="ed0dek0b000000"
+
 	learning = 4
 	martial = 7
 	stewardship = 4
@@ -350,7 +376,9 @@
 50003013 = {
         Name = "Roderick"
 	dynasty = NONE
-	
+	dna="bade00c0ff0"
+        properties="ea0d0k00000000"
+
 	learning = 4
 	martial = 7
 	stewardship = 4
