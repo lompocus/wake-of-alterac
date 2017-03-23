@@ -59,3 +59,35 @@
 	culture = "alteraci"
 	542.11.6 = {birth="542.11.6"}
 }
+
+50001004 = {
+	name = "Henry"
+	dynasty =  51000190 #Formigny
+	learning = 6
+	martial = 14
+	stewardship = 5
+	intrigue = 3
+	diplomacy = 5
+	add_trait = cruel
+	add_trait = ambitious
+	add_trait = brilliant_strategist
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  549.3.20 = {birth="549.3.20"}
+}
+
+50001004 = {
+	name = "Henry"
+	dynasty =  51000190 #Formigny
+	learning = 6
+	martial = 6
+	stewardship = 15
+	intrigue = 7
+	diplomacy = 5
+	add_trait = concientious
+	add_trait = ambitious
+	add_trait = midas_touched
+	religion = "church_of_the_holy_light"
+	culture = "alteraci"
+	  549.3.20 = {birth="549.3.20"}
+}
