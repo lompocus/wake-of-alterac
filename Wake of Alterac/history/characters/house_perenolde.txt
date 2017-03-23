@@ -1,11 +1,13 @@
 50001001 = {
 	name = "Isidor"
 	dynasty = 51000151 #Perenolde
+	
 	learning = 5
 	martial = 3
 	stewardship = 4
 	intrigue = 8
 	diplomacy = 4
+	
 	add_trait = lunatic
 	add_trait = cruel
 	add_trait = ambitious
@@ -14,8 +16,10 @@
 	add_trait = naive_appeaser
 	add_trait = ill
 	add_trait = stressed
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	  516.8.23 = {birth="516.8.23"}
 	  			
 }
@@ -24,11 +28,13 @@
 	name = "Aiden"
 	dynasty = 51000151 #Perenolde
 	father = 50001001
+	
 	learning = 4
 	martial = 7
 	stewardship = 8
 	intrigue = 4
 	diplomacy = 9
+	
 	add_trait = wroth
 	add_trait = zealous
 	add_trait = cruel
@@ -36,6 +42,7 @@
 	add_trait = quick
 	add_trait = cynical
   	add_trait = stressed
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	 535.5.22 = {birth="535.5.22"}
@@ -46,11 +53,13 @@
 50001003 = {
 	name = "Brooch"
 	dynasty = 51000175 #Falconcest
+	
 	learning = 5
 	martial = 9
 	stewardship = 7
 	intrigue = 4
 	diplomacy = 4
+	
 	add_trait = proud
 	add_trait = zealous
 	add_trait = kind
@@ -58,6 +67,7 @@
 	add_trait = just
 	add_trait = honest
   	add_trait = ugly
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	542.11.6 = {birth="542.11.6"}
@@ -69,6 +79,7 @@
 50001004 = {
 	name = "Henry"
 	dynasty =  51000190 #Formigny
+	brother =  50001005
 	
 	learning = 6
 	martial = 14
@@ -88,20 +99,23 @@
 	}
 }
 
-50001004 = {
+50001005 = {
 	name = "Henry"
 	dynasty =  51000190 #Formigny
+	brother =  50001004
+	
 	learning = 6
 	martial = 6
 	stewardship = 15
 	intrigue = 7
 	diplomacy = 5
+	
 	add_trait = concientious
 	add_trait = ambitious
 	add_trait = midas_touched
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
-	  549.3.20 = {birth="549.3.20"}
+	  551.3.20 = {birth="551.3.20"}
 	  
 	  				employer = 500001001
 	}
