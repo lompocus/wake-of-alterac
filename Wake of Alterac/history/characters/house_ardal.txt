@@ -57,8 +57,8 @@
 50000902 = {
 	name = "Charles"
 	dynasty= 51000189 #Donant
-	dna="0hhed0bc0f0"
-        properties="tg0iaj0b000000"
+	dna="0hhed0bc000"
+        properties="tg0jaj0b000000"
 
 	learning = 4
 	martial = 10
