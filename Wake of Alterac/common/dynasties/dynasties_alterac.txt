@@ -202,3 +202,8 @@
 	name = "Donant"
 	culture = stormwindian
 }
+
+51000190 {
+	name = "Formigny"
+	culture = ateraci
+}
