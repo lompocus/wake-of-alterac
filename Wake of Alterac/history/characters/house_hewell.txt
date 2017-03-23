@@ -1,8 +1,8 @@
 50000350 = {
 	name = "Duncan"
 	dynasty = 51000150 #Hewell
-	dna="bbd0c00c0f0"
-        properties="en00gk00000000"
+	dna="bbd0e00c0f0"
+        properties="en00gk0c000000"
 
 	learning = 6
 	martial = 20
