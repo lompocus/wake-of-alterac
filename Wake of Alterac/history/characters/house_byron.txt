@@ -1,19 +1,23 @@
 50002000 = {
 	name = "Ademar"
 	dynasty = 51000154 #Byron
+	
 	learning = 6
 	martial = 12
 	stewardship = 5
 	intrigue = 4
 	diplomacy = 8
+	
 	add_trait = stressed
 	add_trait = quick
 	add_trait = strong
 	add_trait = chaste
 	add_trait = diligent
 	add_trait = misguided_warrior
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	552.9.17  = {birth="552.9.17"}   
   	581.3.20 = {add_spouse = 50002001}
 }
@@ -22,19 +26,23 @@
 50002001 = {
 	name = "Catherine"
 	dynasty = 51000176 #Norwell
+	
 	learning = 4
 	martial = 4
 	stewardship = 4
 	intrigue = 4
 	diplomacy = 4
+	
 	add_trait = chaste
 	add_trait = pregnant
 	add_trait = kind
 	add_trait = feeble
 	add_trait = paranoid
 	add_trait = detached_priest
+	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	560.3.28 = {birth="560.3.28"}
  	581.3.20 = {
 	
