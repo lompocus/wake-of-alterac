@@ -59,6 +59,8 @@ k_alterac = {
 			}
 			b_lakeport = {
 			}
+			b_caer_berengar = }	 
+			{
 		}
 		c_strahnbrad = {
 			color = { 255 238 0 }
