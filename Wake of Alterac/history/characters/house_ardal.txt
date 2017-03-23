@@ -1,7 +1,9 @@
 50000900 = {
 	name = "Christopher"
 	dynasty= 51000156 #Ardal
-	
+	dna="adagb0hbbf0"
+  	properties="ie0idk00000000"
+
 	learning = 9
 	martial = 13
 	stewardship = 15 
