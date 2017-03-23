@@ -17,6 +17,7 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	  516.8.23 = {birth="516.8.23"}
+	  			
 }
 
 50001002 = {
@@ -38,6 +39,8 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	 535.5.22 = {birth="535.5.22"}
+	 
+	 				employer = 500001001
 }
 
 50001003 = {
@@ -58,22 +61,31 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	542.11.6 = {birth="542.11.6"}
+	
+					employer = 500001001
+	}
 }
 
 50001004 = {
 	name = "Henry"
 	dynasty =  51000190 #Formigny
+	
 	learning = 6
 	martial = 14
 	stewardship = 5
 	intrigue = 3
 	diplomacy = 5
+	
 	add_trait = cruel
 	add_trait = ambitious
 	add_trait = brilliant_strategist
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
+	
 	  549.3.20 = {birth="549.3.20"}
+	  
+	  				employer = 500001001
+	}
 }
 
 50001004 = {
@@ -90,4 +102,6 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	  549.3.20 = {birth="549.3.20"}
-}
+	  
+	  				employer = 500001001
+	}
