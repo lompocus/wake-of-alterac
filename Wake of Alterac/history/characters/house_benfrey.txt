@@ -65,7 +65,7 @@
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	
-	  = {birth="534.1.13"}
+	 534.1.13 = {birth="534.1.13"}
 }
 
 50000403 = {
@@ -89,25 +89,24 @@
 }
 
 50000404 = {
-	name = ""
-	dynasty= 51000153 #Benfrey
+	name = "Ormond"
+	dynasty= NONE
+	dna="0iecf0c0a00"
+        properties="000f0k0c000000"
+
+	learning = 7
+	martial = 10
+	stewardship = 4
+	intrigue = 6
+	diplomacy = 5
 	
-	learning = 
-	martial = 
-	stewardship = 
-	intrigue = 
-	diplomacy = 
-	
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-	add_trait = 
-  	add_trait = 
+	add_trait = tough_soldier
+	add_trait = cynical
+	add_trait = gregarious
+	add_trait = brave
 	
 	religion = "church_of_the_holy_light"
 	culture = "alteraci"
 	
-	  = {birth=""}
+	545.7.5 = {birth="545.7.5"}
 }
