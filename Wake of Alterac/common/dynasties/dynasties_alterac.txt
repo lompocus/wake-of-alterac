@@ -205,5 +205,5 @@
 
 51000190 {
 	name = "Formigny"
-	culture = ateraci
+	culture = alteraci
 }
